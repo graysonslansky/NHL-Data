@@ -1,13 +1,13 @@
-Season,Team,GP,W,OL,PTS%
-2018-19,New York Islanders*,82,48,7,.628
-2017-18,New York Islanders,82,35,10,.488
-2016-17,New York Islanders,82,41,12,.573
-2015-16,New York Islanders*,82,45,10,.610
-2014-15,New York Islanders*,82,47,7,.616
-2013-14,New York Islanders,82,34,11,.482
-2012-13,New York Islanders*,48,24,7,.573
-2011-12,New York Islanders,82,34,11,.482
-2010-11,New York Islanders,82,30,13,.445
-2009-10,New York Islanders,82,34,11,.482
-2008-09,New York Islanders,82,26,9,.372
-2007-08,New York Islanders,82,35,9,.482
+Season,Lg,Team,GP,W,L,OL,PTS%
+2018-19,NHL,New York Islanders*,82,48,27,7,.628
+2017-18,NHL,New York Islanders,82,35,37,10,.488
+2016-17,NHL,New York Islanders,82,41,29,12,.573
+2015-16,NHL,New York Islanders*,82,45,27,10,.610
+2014-15,NHL,New York Islanders*,82,47,28,7,.616
+2013-14,NHL,New York Islanders,82,34,37,11,.482
+2012-13,NHL,New York Islanders*,48,24,17,7,.573
+2011-12,NHL,New York Islanders,82,34,37,11,.482
+2010-11,NHL,New York Islanders,82,30,39,13,.445
+2009-10,NHL,New York Islanders,82,34,37,11,.482
+2008-09,NHL,New York Islanders,82,26,47,9,.372
+2007-08,NHL,New York Islanders,82,35,38,9,.482
