@@ -1,0 +1,367 @@
+Season,Team,PTS%
+2023-24,New York Rangers,.691
+2022-23,New York Rangers,.652
+2021-22,New York Rangers,.671
+2020-21,New York Rangers,.536
+2019-20,New York Rangers,.564
+2018-19,New York Rangers,.476
+2017-18,New York Rangers,.470
+2016-17,New York Rangers,.622
+2015-16,New York Rangers,.616
+2014-15,New York Rangers,.689
+2013-14,New York Rangers,.585
+2012-13,New York Rangers,.583
+2011-12,New York Rangers,.665
+2010-11,New York Rangers,.567
+2009-10,New York Rangers,.530
+2008-09,New York Rangers,.579
+2007-08,New York Rangers,.591
+2006-07,New York Rangers,.573
+2005-06,New York Rangers,.610
+2003-04,New York Rangers,.421
+2002-03,New York Rangers,.476
+2001-02,New York Rangers,.488
+2000-01,New York Rangers,.439
+1999-00,New York Rangers,.445
+1998-99,New York Rangers,.470
+1997-98,New York Rangers,.415
+1996-97,New York Rangers,.524
+1995-96,New York Rangers,.585
+1994-95,New York Rangers,.490
+1993-94,New York Rangers,.667
+1992-93,New York Rangers,.470
+1991-92,New York Rangers,.656
+1990-91,New York Rangers,.531
+1989-90,New York Rangers,.531
+1988-89,New York Rangers,.513
+1987-88,New York Rangers,.513
+1986-87,New York Rangers,.475
+1985-86,New York Rangers,.488
+1984-85,New York Rangers,.388
+1983-84,New York Rangers,.581
+1982-83,New York Rangers,.500
+1981-82,New York Rangers,.575
+1980-81,New York Rangers,.463
+1979-80,New York Rangers,.538
+1978-79,New York Rangers,.569
+1977-78,New York Rangers,.456
+1976-77,New York Rangers,.450
+1975-76,New York Rangers,.419
+1974-75,New York Rangers,.550
+1973-74,New York Rangers,.603
+2023-24,Carolina Hurricanes,.662
+2022-23,Carolina Hurricanes,.689
+2021-22,Carolina Hurricanes,.707
+2020-21,Carolina Hurricanes,.714
+2019-20,Carolina Hurricanes,.596
+2018-19,Carolina Hurricanes,.604
+2017-18,Carolina Hurricanes,.506
+2016-17,Carolina Hurricanes,.530
+2015-16,Carolina Hurricanes,.524
+2014-15,Carolina Hurricanes,.433
+2013-14,Carolina Hurricanes,.506
+2012-13,Carolina Hurricanes,.438
+2011-12,Carolina Hurricanes,.500
+2010-11,Carolina Hurricanes,.555
+2009-10,Carolina Hurricanes,.488
+2008-09,Carolina Hurricanes,.591
+2007-08,Carolina Hurricanes,.561
+2006-07,Carolina Hurricanes,.537
+2005-06,Carolina Hurricanes,.683
+2003-04,Carolina Hurricanes,.463
+2002-03,Carolina Hurricanes,.372
+2001-02,Carolina Hurricanes,.555
+2000-01,Carolina Hurricanes,.537
+1999-00,Carolina Hurricanes,.512
+1998-99,Carolina Hurricanes,.524
+1997-98,Carolina Hurricanes,.451
+1996-97,Hartford Whalers,.457
+1995-96,Hartford Whalers,.470
+1994-95,Hartford Whalers,.448
+1993-94,Hartford Whalers,.375
+1992-93,Hartford Whalers,.345
+1991-92,Hartford Whalers,.406
+1990-91,Hartford Whalers,.456
+1989-90,Hartford Whalers,.531
+1988-89,Hartford Whalers,.494
+1987-88,Hartford Whalers,.481
+1986-87,Hartford Whalers,.581
+1985-86,Hartford Whalers,.525
+1984-85,Hartford Whalers,.431
+1983-84,Hartford Whalers,.413
+1982-83,Hartford Whalers,.281
+1981-82,Hartford Whalers,.375
+1980-81,Hartford Whalers,.375
+1979-80,Hartford Whalers,.456
+2023-24,Philadelphia Flyers,.559
+2022-23,Philadelphia Flyers,.457
+2021-22,Philadelphia Flyers,.372
+2020-21,Philadelphia Flyers,.518
+2019-20,Philadelphia Flyers,.645
+2018-19,Philadelphia Flyers,.500
+2017-18,Philadelphia Flyers,.598
+2016-17,Philadelphia Flyers,.537
+2015-16,Philadelphia Flyers,.585
+2014-15,Philadelphia Flyers,.512
+2013-14,Philadelphia Flyers,.573
+2012-13,Philadelphia Flyers,.510
+2011-12,Philadelphia Flyers,.628
+2010-11,Philadelphia Flyers,.646
+2009-10,Philadelphia Flyers,.537
+2008-09,Philadelphia Flyers,.604
+2007-08,Philadelphia Flyers,.579
+2006-07,Philadelphia Flyers,.341
+2005-06,Philadelphia Flyers,.616
+2003-04,Philadelphia Flyers,.616
+2002-03,Philadelphia Flyers,.652
+2001-02,Philadelphia Flyers,.591
+2000-01,Philadelphia Flyers,.610
+1999-00,Philadelphia Flyers,.640
+1998-99,Philadelphia Flyers,.567
+1997-98,Philadelphia Flyers,.579
+1996-97,Philadelphia Flyers,.628
+1995-96,Philadelphia Flyers,.628
+1994-95,Philadelphia Flyers,.625
+1993-94,Philadelphia Flyers,.476
+1992-93,Philadelphia Flyers,.494
+1991-92,Philadelphia Flyers,.469
+1990-91,Philadelphia Flyers,.475
+1989-90,Philadelphia Flyers,.444
+1988-89,Philadelphia Flyers,.500
+1987-88,Philadelphia Flyers,.531
+1986-87,Philadelphia Flyers,.625
+1985-86,Philadelphia Flyers,.688
+1984-85,Philadelphia Flyers,.706
+1983-84,Philadelphia Flyers,.613
+1982-83,Philadelphia Flyers,.663
+1981-82,Philadelphia Flyers,.544
+1980-81,Philadelphia Flyers,.606
+1979-80,Philadelphia Flyers,.725
+1978-79,Philadelphia Flyers,.594
+1977-78,Philadelphia Flyers,.656
+1976-77,Philadelphia Flyers,.700
+1975-76,Philadelphia Flyers,.738
+1974-75,Philadelphia Flyers,.706
+1973-74,Philadelphia Flyers,.718
+2023-24,Washington Capitals,.553
+2022-23,Washington Capitals,.488
+2021-22,Washington Capitals,.610
+2020-21,Washington Capitals,.688
+2019-20,Washington Capitals,.652
+2018-19,Washington Capitals,.634
+2017-18,Washington Capitals,.640
+2016-17,Washington Capitals,.720
+2015-16,Washington Capitals,.732
+2014-15,Washington Capitals,.616
+2013-14,Washington Capitals,.549
+2012-13,Washington Capitals,.594
+2011-12,Washington Capitals,.561
+2010-11,Washington Capitals,.652
+2009-10,Washington Capitals,.738
+2008-09,Washington Capitals,.659
+2007-08,Washington Capitals,.573
+2006-07,Washington Capitals,.427
+2005-06,Washington Capitals,.427
+2003-04,Washington Capitals,.360
+2002-03,Washington Capitals,.561
+2001-02,Washington Capitals,.518
+2000-01,Washington Capitals,.585
+1999-00,Washington Capitals,.622
+1998-99,Washington Capitals,.415
+1997-98,Washington Capitals,.561
+1996-97,Washington Capitals,.457
+1995-96,Washington Capitals,.543
+1994-95,Washington Capitals,.542
+1993-94,Washington Capitals,.524
+1992-93,Washington Capitals,.554
+1991-92,Washington Capitals,.613
+1990-91,Washington Capitals,.506
+1989-90,Washington Capitals,.488
+1988-89,Washington Capitals,.575
+1987-88,Washington Capitals,.531
+1986-87,Washington Capitals,.538
+1985-86,Washington Capitals,.669
+1984-85,Washington Capitals,.631
+1983-84,Washington Capitals,.631
+1982-83,Washington Capitals,.588
+1981-82,Washington Capitals,.406
+1980-81,Washington Capitals,.438
+1979-80,Washington Capitals,.419
+1978-79,Washington Capitals,.394
+1977-78,Washington Capitals,.300
+1976-77,Washington Capitals,.388
+1975-76,Washington Capitals,.200
+1974-75,Washington Capitals,.131
+2023-24,New York Islanders,.545
+2022-23,New York Islanders,.567
+2021-22,New York Islanders,.512
+2020-21,New York Islanders,.634
+2019-20,New York Islanders,.588
+2018-19,New York Islanders,.628
+2017-18,New York Islanders,.488
+2016-17,New York Islanders,.573
+2015-16,New York Islanders,.610
+2014-15,New York Islanders,.616
+2013-14,New York Islanders,.482
+2012-13,New York Islanders,.573
+2011-12,New York Islanders,.482
+2010-11,New York Islanders,.445
+2009-10,New York Islanders,.482
+2008-09,New York Islanders,.372
+2007-08,New York Islanders,.482
+2006-07,New York Islanders,.561
+2005-06,New York Islanders,.476
+2003-04,New York Islanders,.555
+2002-03,New York Islanders,.506
+2001-02,New York Islanders,.585
+2000-01,New York Islanders,.317
+1999-00,New York Islanders,.354
+1998-99,New York Islanders,.354
+1997-98,New York Islanders,.433
+1996-97,New York Islanders,.427
+1995-96,New York Islanders,.329
+1994-95,New York Islanders,.365
+1993-94,New York Islanders,.500
+1992-93,New York Islanders,.518
+1991-92,New York Islanders,.494
+1990-91,New York Islanders,.375
+1989-90,New York Islanders,.456
+1988-89,New York Islanders,.381
+1987-88,New York Islanders,.550
+1986-87,New York Islanders,.513
+1985-86,New York Islanders,.563
+1984-85,New York Islanders,.538
+1983-84,New York Islanders,.650
+1982-83,New York Islanders,.600
+1981-82,New York Islanders,.738
+1980-81,New York Islanders,.688
+1979-80,New York Islanders,.569
+1978-79,New York Islanders,.725
+1977-78,New York Islanders,.694
+1976-77,New York Islanders,.663
+1975-76,New York Islanders,.631
+1974-75,New York Islanders,.550
+1973-74,New York Islanders,.359
+1972-73,New York Islanders,.192
+2023-24,Pittsburgh Penguins,.515
+2022-23,Pittsburgh Penguins,.555
+2021-22,Pittsburgh Penguins,.628
+2020-21,Pittsburgh Penguins,.688
+2019-20,Pittsburgh Penguins,.623
+2018-19,Pittsburgh Penguins,.610
+2017-18,Pittsburgh Penguins,.610
+2016-17,Pittsburgh Penguins,.677
+2015-16,Pittsburgh Penguins,.634
+2014-15,Pittsburgh Penguins,.598
+2013-14,Pittsburgh Penguins,.665
+2012-13,Pittsburgh Penguins,.750
+2011-12,Pittsburgh Penguins,.659
+2010-11,Pittsburgh Penguins,.646
+2009-10,Pittsburgh Penguins,.616
+2008-09,Pittsburgh Penguins,.604
+2007-08,Pittsburgh Penguins,.622
+2006-07,Pittsburgh Penguins,.640
+2005-06,Pittsburgh Penguins,.354
+2003-04,Pittsburgh Penguins,.354
+2002-03,Pittsburgh Penguins,.396
+2001-02,Pittsburgh Penguins,.421
+2000-01,Pittsburgh Penguins,.585
+1999-00,Pittsburgh Penguins,.537
+1998-99,Pittsburgh Penguins,.549
+1997-98,Pittsburgh Penguins,.598
+1996-97,Pittsburgh Penguins,.512
+1995-96,Pittsburgh Penguins,.622
+1994-95,Pittsburgh Penguins,.635
+1993-94,Pittsburgh Penguins,.601
+1992-93,Pittsburgh Penguins,.708
+1991-92,Pittsburgh Penguins,.544
+1990-91,Pittsburgh Penguins,.550
+1989-90,Pittsburgh Penguins,.450
+1988-89,Pittsburgh Penguins,.544
+1987-88,Pittsburgh Penguins,.506
+1986-87,Pittsburgh Penguins,.450
+1985-86,Pittsburgh Penguins,.475
+1984-85,Pittsburgh Penguins,.331
+1983-84,Pittsburgh Penguins,.238
+1982-83,Pittsburgh Penguins,.281
+1981-82,Pittsburgh Penguins,.469
+1980-81,Pittsburgh Penguins,.456
+1979-80,Pittsburgh Penguins,.456
+1978-79,Pittsburgh Penguins,.531
+1977-78,Pittsburgh Penguins,.425
+1976-77,Pittsburgh Penguins,.506
+1975-76,Pittsburgh Penguins,.513
+1974-75,Pittsburgh Penguins,.556
+1973-74,Pittsburgh Penguins,.417
+2023-24,New Jersey Devils,.500
+2022-23,New Jersey Devils,.683
+2021-22,New Jersey Devils,.384
+2020-21,New Jersey Devils,.402
+2019-20,New Jersey Devils,.493
+2018-19,New Jersey Devils,.439
+2017-18,New Jersey Devils,.591
+2016-17,New Jersey Devils,.427
+2015-16,New Jersey Devils,.512
+2014-15,New Jersey Devils,.476
+2013-14,New Jersey Devils,.537
+2012-13,New Jersey Devils,.500
+2011-12,New Jersey Devils,.622
+2010-11,New Jersey Devils,.494
+2009-10,New Jersey Devils,.628
+2008-09,New Jersey Devils,.646
+2007-08,New Jersey Devils,.604
+2006-07,New Jersey Devils,.652
+2005-06,New Jersey Devils,.616
+2003-04,New Jersey Devils,.610
+2002-03,New Jersey Devils,.659
+2001-02,New Jersey Devils,.579
+2000-01,New Jersey Devils,.677
+1999-00,New Jersey Devils,.628
+1998-99,New Jersey Devils,.640
+1997-98,New Jersey Devils,.652
+1996-97,New Jersey Devils,.634
+1995-96,New Jersey Devils,.524
+1994-95,New Jersey Devils,.542
+1993-94,New Jersey Devils,.631
+1992-93,New Jersey Devils,.518
+1991-92,New Jersey Devils,.544
+1990-91,New Jersey Devils,.494
+1989-90,New Jersey Devils,.519
+1988-89,New Jersey Devils,.413
+1987-88,New Jersey Devils,.513
+1986-87,New Jersey Devils,.400
+1985-86,New Jersey Devils,.369
+1984-85,New Jersey Devils,.338
+1983-84,New Jersey Devils,.256
+1982-83,New Jersey Devils,.300
+1981-82,Colorado Rockies,.306
+1980-81,Colorado Rockies,.356
+1979-80,Colorado Rockies,.319
+1978-79,Colorado Rockies,.263
+1977-78,Colorado Rockies,.369
+1976-77,Colorado Rockies,.338
+1975-76,Kansas City Scouts,.225
+1974-75,Kansas City Scouts,.256
+2023-24,Columbus Blue Jackets,.419
+2022-23,Columbus Blue Jackets,.360
+2021-22,Columbus Blue Jackets,.494
+2020-21,Columbus Blue Jackets,.429
+2019-20,Columbus Blue Jackets,.579
+2018-19,Columbus Blue Jackets,.598
+2017-18,Columbus Blue Jackets,.591
+2016-17,Columbus Blue Jackets,.659
+2015-16,Columbus Blue Jackets,.463
+2014-15,Columbus Blue Jackets,.543
+2013-14,Columbus Blue Jackets,.567
+2012-13,Columbus Blue Jackets,.573
+2011-12,Columbus Blue Jackets,.396
+2010-11,Columbus Blue Jackets,.494
+2009-10,Columbus Blue Jackets,.482
+2008-09,Columbus Blue Jackets,.561
+2007-08,Columbus Blue Jackets,.488
+2006-07,Columbus Blue Jackets,.445
+2005-06,Columbus Blue Jackets,.451
+2003-04,Columbus Blue Jackets,.378
+2002-03,Columbus Blue Jackets,.421
+2001-02,Columbus Blue Jackets,.348
+2000-01,Columbus Blue Jackets,.433
