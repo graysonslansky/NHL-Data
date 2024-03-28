@@ -1,1298 +1,1298 @@
-Season,Team,PTS%
-2023-24,New York Rangers,.691
-2022-23,New York Rangers,.652
-2021-22,New York Rangers,.671
-2020-21,New York Rangers,.536
-2019-20,New York Rangers,.564
-2018-19,New York Rangers,.476
-2017-18,New York Rangers,.470
-2016-17,New York Rangers,.622
-2015-16,New York Rangers,.616
-2014-15,New York Rangers,.689
-2013-14,New York Rangers,.585
-2012-13,New York Rangers,.583
-2011-12,New York Rangers,.665
-2010-11,New York Rangers,.567
-2009-10,New York Rangers,.530
-2008-09,New York Rangers,.579
-2007-08,New York Rangers,.591
-2006-07,New York Rangers,.573
-2005-06,New York Rangers,.610
-2003-04,New York Rangers,.421
-2002-03,New York Rangers,.476
-2001-02,New York Rangers,.488
-2000-01,New York Rangers,.439
-1999-00,New York Rangers,.445
-1998-99,New York Rangers,.470
-1997-98,New York Rangers,.415
-1996-97,New York Rangers,.524
-1995-96,New York Rangers,.585
-1994-95,New York Rangers,.490
-1993-94,New York Rangers,.667
-1992-93,New York Rangers,.470
-1991-92,New York Rangers,.656
-1990-91,New York Rangers,.531
-1989-90,New York Rangers,.531
-1988-89,New York Rangers,.513
-1987-88,New York Rangers,.513
-1986-87,New York Rangers,.475
-1985-86,New York Rangers,.488
-1984-85,New York Rangers,.388
-1983-84,New York Rangers,.581
-1982-83,New York Rangers,.500
-1981-82,New York Rangers,.575
-1980-81,New York Rangers,.463
-1979-80,New York Rangers,.538
-1978-79,New York Rangers,.569
-1977-78,New York Rangers,.456
-1976-77,New York Rangers,.450
-1975-76,New York Rangers,.419
-1974-75,New York Rangers,.550
-1973-74,New York Rangers,.603
-2023-24,Carolina Hurricanes,.662
-2022-23,Carolina Hurricanes,.689
-2021-22,Carolina Hurricanes,.707
-2020-21,Carolina Hurricanes,.714
-2019-20,Carolina Hurricanes,.596
-2018-19,Carolina Hurricanes,.604
-2017-18,Carolina Hurricanes,.506
-2016-17,Carolina Hurricanes,.530
-2015-16,Carolina Hurricanes,.524
-2014-15,Carolina Hurricanes,.433
-2013-14,Carolina Hurricanes,.506
-2012-13,Carolina Hurricanes,.438
-2011-12,Carolina Hurricanes,.500
-2010-11,Carolina Hurricanes,.555
-2009-10,Carolina Hurricanes,.488
-2008-09,Carolina Hurricanes,.591
-2007-08,Carolina Hurricanes,.561
-2006-07,Carolina Hurricanes,.537
-2005-06,Carolina Hurricanes,.683
-2003-04,Carolina Hurricanes,.463
-2002-03,Carolina Hurricanes,.372
-2001-02,Carolina Hurricanes,.555
-2000-01,Carolina Hurricanes,.537
-1999-00,Carolina Hurricanes,.512
-1998-99,Carolina Hurricanes,.524
-1997-98,Carolina Hurricanes,.451
-1996-97,Hartford Whalers,.457
-1995-96,Hartford Whalers,.470
-1994-95,Hartford Whalers,.448
-1993-94,Hartford Whalers,.375
-1992-93,Hartford Whalers,.345
-1991-92,Hartford Whalers,.406
-1990-91,Hartford Whalers,.456
-1989-90,Hartford Whalers,.531
-1988-89,Hartford Whalers,.494
-1987-88,Hartford Whalers,.481
-1986-87,Hartford Whalers,.581
-1985-86,Hartford Whalers,.525
-1984-85,Hartford Whalers,.431
-1983-84,Hartford Whalers,.413
-1982-83,Hartford Whalers,.281
-1981-82,Hartford Whalers,.375
-1980-81,Hartford Whalers,.375
-1979-80,Hartford Whalers,.456
-2023-24,Philadelphia Flyers,.559
-2022-23,Philadelphia Flyers,.457
-2021-22,Philadelphia Flyers,.372
-2020-21,Philadelphia Flyers,.518
-2019-20,Philadelphia Flyers,.645
-2018-19,Philadelphia Flyers,.500
-2017-18,Philadelphia Flyers,.598
-2016-17,Philadelphia Flyers,.537
-2015-16,Philadelphia Flyers,.585
-2014-15,Philadelphia Flyers,.512
-2013-14,Philadelphia Flyers,.573
-2012-13,Philadelphia Flyers,.510
-2011-12,Philadelphia Flyers,.628
-2010-11,Philadelphia Flyers,.646
-2009-10,Philadelphia Flyers,.537
-2008-09,Philadelphia Flyers,.604
-2007-08,Philadelphia Flyers,.579
-2006-07,Philadelphia Flyers,.341
-2005-06,Philadelphia Flyers,.616
-2003-04,Philadelphia Flyers,.616
-2002-03,Philadelphia Flyers,.652
-2001-02,Philadelphia Flyers,.591
-2000-01,Philadelphia Flyers,.610
-1999-00,Philadelphia Flyers,.640
-1998-99,Philadelphia Flyers,.567
-1997-98,Philadelphia Flyers,.579
-1996-97,Philadelphia Flyers,.628
-1995-96,Philadelphia Flyers,.628
-1994-95,Philadelphia Flyers,.625
-1993-94,Philadelphia Flyers,.476
-1992-93,Philadelphia Flyers,.494
-1991-92,Philadelphia Flyers,.469
-1990-91,Philadelphia Flyers,.475
-1989-90,Philadelphia Flyers,.444
-1988-89,Philadelphia Flyers,.500
-1987-88,Philadelphia Flyers,.531
-1986-87,Philadelphia Flyers,.625
-1985-86,Philadelphia Flyers,.688
-1984-85,Philadelphia Flyers,.706
-1983-84,Philadelphia Flyers,.613
-1982-83,Philadelphia Flyers,.663
-1981-82,Philadelphia Flyers,.544
-1980-81,Philadelphia Flyers,.606
-1979-80,Philadelphia Flyers,.725
-1978-79,Philadelphia Flyers,.594
-1977-78,Philadelphia Flyers,.656
-1976-77,Philadelphia Flyers,.700
-1975-76,Philadelphia Flyers,.738
-1974-75,Philadelphia Flyers,.706
-1973-74,Philadelphia Flyers,.718
-2023-24,Washington Capitals,.553
-2022-23,Washington Capitals,.488
-2021-22,Washington Capitals,.610
-2020-21,Washington Capitals,.688
-2019-20,Washington Capitals,.652
-2018-19,Washington Capitals,.634
-2017-18,Washington Capitals,.640
-2016-17,Washington Capitals,.720
-2015-16,Washington Capitals,.732
-2014-15,Washington Capitals,.616
-2013-14,Washington Capitals,.549
-2012-13,Washington Capitals,.594
-2011-12,Washington Capitals,.561
-2010-11,Washington Capitals,.652
-2009-10,Washington Capitals,.738
-2008-09,Washington Capitals,.659
-2007-08,Washington Capitals,.573
-2006-07,Washington Capitals,.427
-2005-06,Washington Capitals,.427
-2003-04,Washington Capitals,.360
-2002-03,Washington Capitals,.561
-2001-02,Washington Capitals,.518
-2000-01,Washington Capitals,.585
-1999-00,Washington Capitals,.622
-1998-99,Washington Capitals,.415
-1997-98,Washington Capitals,.561
-1996-97,Washington Capitals,.457
-1995-96,Washington Capitals,.543
-1994-95,Washington Capitals,.542
-1993-94,Washington Capitals,.524
-1992-93,Washington Capitals,.554
-1991-92,Washington Capitals,.613
-1990-91,Washington Capitals,.506
-1989-90,Washington Capitals,.488
-1988-89,Washington Capitals,.575
-1987-88,Washington Capitals,.531
-1986-87,Washington Capitals,.538
-1985-86,Washington Capitals,.669
-1984-85,Washington Capitals,.631
-1983-84,Washington Capitals,.631
-1982-83,Washington Capitals,.588
-1981-82,Washington Capitals,.406
-1980-81,Washington Capitals,.438
-1979-80,Washington Capitals,.419
-1978-79,Washington Capitals,.394
-1977-78,Washington Capitals,.300
-1976-77,Washington Capitals,.388
-1975-76,Washington Capitals,.200
-1974-75,Washington Capitals,.131
-2023-24,New York Islanders,.545
-2022-23,New York Islanders,.567
-2021-22,New York Islanders,.512
-2020-21,New York Islanders,.634
-2019-20,New York Islanders,.588
-2018-19,New York Islanders,.628
-2017-18,New York Islanders,.488
-2016-17,New York Islanders,.573
-2015-16,New York Islanders,.610
-2014-15,New York Islanders,.616
-2013-14,New York Islanders,.482
-2012-13,New York Islanders,.573
-2011-12,New York Islanders,.482
-2010-11,New York Islanders,.445
-2009-10,New York Islanders,.482
-2008-09,New York Islanders,.372
-2007-08,New York Islanders,.482
-2006-07,New York Islanders,.561
-2005-06,New York Islanders,.476
-2003-04,New York Islanders,.555
-2002-03,New York Islanders,.506
-2001-02,New York Islanders,.585
-2000-01,New York Islanders,.317
-1999-00,New York Islanders,.354
-1998-99,New York Islanders,.354
-1997-98,New York Islanders,.433
-1996-97,New York Islanders,.427
-1995-96,New York Islanders,.329
-1994-95,New York Islanders,.365
-1993-94,New York Islanders,.500
-1992-93,New York Islanders,.518
-1991-92,New York Islanders,.494
-1990-91,New York Islanders,.375
-1989-90,New York Islanders,.456
-1988-89,New York Islanders,.381
-1987-88,New York Islanders,.550
-1986-87,New York Islanders,.513
-1985-86,New York Islanders,.563
-1984-85,New York Islanders,.538
-1983-84,New York Islanders,.650
-1982-83,New York Islanders,.600
-1981-82,New York Islanders,.738
-1980-81,New York Islanders,.688
-1979-80,New York Islanders,.569
-1978-79,New York Islanders,.725
-1977-78,New York Islanders,.694
-1976-77,New York Islanders,.663
-1975-76,New York Islanders,.631
-1974-75,New York Islanders,.550
-1973-74,New York Islanders,.359
-1972-73,New York Islanders,.192
-2023-24,Pittsburgh Penguins,.515
-2022-23,Pittsburgh Penguins,.555
-2021-22,Pittsburgh Penguins,.628
-2020-21,Pittsburgh Penguins,.688
-2019-20,Pittsburgh Penguins,.623
-2018-19,Pittsburgh Penguins,.610
-2017-18,Pittsburgh Penguins,.610
-2016-17,Pittsburgh Penguins,.677
-2015-16,Pittsburgh Penguins,.634
-2014-15,Pittsburgh Penguins,.598
-2013-14,Pittsburgh Penguins,.665
-2012-13,Pittsburgh Penguins,.750
-2011-12,Pittsburgh Penguins,.659
-2010-11,Pittsburgh Penguins,.646
-2009-10,Pittsburgh Penguins,.616
-2008-09,Pittsburgh Penguins,.604
-2007-08,Pittsburgh Penguins,.622
-2006-07,Pittsburgh Penguins,.640
-2005-06,Pittsburgh Penguins,.354
-2003-04,Pittsburgh Penguins,.354
-2002-03,Pittsburgh Penguins,.396
-2001-02,Pittsburgh Penguins,.421
-2000-01,Pittsburgh Penguins,.585
-1999-00,Pittsburgh Penguins,.537
-1998-99,Pittsburgh Penguins,.549
-1997-98,Pittsburgh Penguins,.598
-1996-97,Pittsburgh Penguins,.512
-1995-96,Pittsburgh Penguins,.622
-1994-95,Pittsburgh Penguins,.635
-1993-94,Pittsburgh Penguins,.601
-1992-93,Pittsburgh Penguins,.708
-1991-92,Pittsburgh Penguins,.544
-1990-91,Pittsburgh Penguins,.550
-1989-90,Pittsburgh Penguins,.450
-1988-89,Pittsburgh Penguins,.544
-1987-88,Pittsburgh Penguins,.506
-1986-87,Pittsburgh Penguins,.450
-1985-86,Pittsburgh Penguins,.475
-1984-85,Pittsburgh Penguins,.331
-1983-84,Pittsburgh Penguins,.238
-1982-83,Pittsburgh Penguins,.281
-1981-82,Pittsburgh Penguins,.469
-1980-81,Pittsburgh Penguins,.456
-1979-80,Pittsburgh Penguins,.456
-1978-79,Pittsburgh Penguins,.531
-1977-78,Pittsburgh Penguins,.425
-1976-77,Pittsburgh Penguins,.506
-1975-76,Pittsburgh Penguins,.513
-1974-75,Pittsburgh Penguins,.556
-1973-74,Pittsburgh Penguins,.417
-2023-24,New Jersey Devils,.500
-2022-23,New Jersey Devils,.683
-2021-22,New Jersey Devils,.384
-2020-21,New Jersey Devils,.402
-2019-20,New Jersey Devils,.493
-2018-19,New Jersey Devils,.439
-2017-18,New Jersey Devils,.591
-2016-17,New Jersey Devils,.427
-2015-16,New Jersey Devils,.512
-2014-15,New Jersey Devils,.476
-2013-14,New Jersey Devils,.537
-2012-13,New Jersey Devils,.500
-2011-12,New Jersey Devils,.622
-2010-11,New Jersey Devils,.494
-2009-10,New Jersey Devils,.628
-2008-09,New Jersey Devils,.646
-2007-08,New Jersey Devils,.604
-2006-07,New Jersey Devils,.652
-2005-06,New Jersey Devils,.616
-2003-04,New Jersey Devils,.610
-2002-03,New Jersey Devils,.659
-2001-02,New Jersey Devils,.579
-2000-01,New Jersey Devils,.677
-1999-00,New Jersey Devils,.628
-1998-99,New Jersey Devils,.640
-1997-98,New Jersey Devils,.652
-1996-97,New Jersey Devils,.634
-1995-96,New Jersey Devils,.524
-1994-95,New Jersey Devils,.542
-1993-94,New Jersey Devils,.631
-1992-93,New Jersey Devils,.518
-1991-92,New Jersey Devils,.544
-1990-91,New Jersey Devils,.494
-1989-90,New Jersey Devils,.519
-1988-89,New Jersey Devils,.413
-1987-88,New Jersey Devils,.513
-1986-87,New Jersey Devils,.400
-1985-86,New Jersey Devils,.369
-1984-85,New Jersey Devils,.338
-1983-84,New Jersey Devils,.256
-1982-83,New Jersey Devils,.300
-1981-82,Colorado Rockies,.306
-1980-81,Colorado Rockies,.356
-1979-80,Colorado Rockies,.319
-1978-79,Colorado Rockies,.263
-1977-78,Colorado Rockies,.369
-1976-77,Colorado Rockies,.338
-1975-76,Kansas City Scouts,.225
-1974-75,Kansas City Scouts,.256
-2023-24,Columbus Blue Jackets,.419
-2022-23,Columbus Blue Jackets,.360
-2021-22,Columbus Blue Jackets,.494
-2020-21,Columbus Blue Jackets,.429
-2019-20,Columbus Blue Jackets,.579
-2018-19,Columbus Blue Jackets,.598
-2017-18,Columbus Blue Jackets,.591
-2016-17,Columbus Blue Jackets,.659
-2015-16,Columbus Blue Jackets,.463
-2014-15,Columbus Blue Jackets,.543
-2013-14,Columbus Blue Jackets,.567
-2012-13,Columbus Blue Jackets,.573
-2011-12,Columbus Blue Jackets,.396
-2010-11,Columbus Blue Jackets,.494
-2009-10,Columbus Blue Jackets,.482
-2008-09,Columbus Blue Jackets,.561
-2007-08,Columbus Blue Jackets,.488
-2006-07,Columbus Blue Jackets,.445
-2005-06,Columbus Blue Jackets,.451
-2003-04,Columbus Blue Jackets,.378
-2002-03,Columbus Blue Jackets,.421
-2001-02,Columbus Blue Jackets,.348
-2000-01,Columbus Blue Jackets,.433
-2023-24,Boston Bruins,.688
-2022-23,Boston Bruins,.823
-2021-22,Boston Bruins,.652
-2020-21,Boston Bruins,.652
-2019-20,Boston Bruins,.714
-2018-19,Boston Bruins,.652
-2017-18,Boston Bruins,.683
-2016-17,Boston Bruins,.579
-2015-16,Boston Bruins,.567
-2014-15,Boston Bruins,.585
-2013-14,Boston Bruins,.713
-2012-13,Boston Bruins,.646
-2011-12,Boston Bruins,.622
-2010-11,Boston Bruins,.628
-2009-10,Boston Bruins,.555
-2008-09,Boston Bruins,.707
-2007-08,Boston Bruins,.573
-2006-07,Boston Bruins,.463
-2005-06,Boston Bruins,.451
-2003-04,Boston Bruins,.634
-2002-03,Boston Bruins,.530
-2001-02,Boston Bruins,.616
-2000-01,Boston Bruins,.537
-1999-00,Boston Bruins,.445
-1998-99,Boston Bruins,.555
-1997-98,Boston Bruins,.555
-1996-97,Boston Bruins,.372
-1995-96,Boston Bruins,.555
-1994-95,Boston Bruins,.594
-1993-94,Boston Bruins,.577
-1992-93,Boston Bruins,.649
-1991-92,Boston Bruins,.525
-1990-91,Boston Bruins,.625
-1989-90,Boston Bruins,.631
-1988-89,Boston Bruins,.550
-1987-88,Boston Bruins,.588
-1986-87,Boston Bruins,.531
-1985-86,Boston Bruins,.538
-1984-85,Boston Bruins,.513
-1983-84,Boston Bruins,.650
-1982-83,Boston Bruins,.688
-1981-82,Boston Bruins,.600
-1980-81,Boston Bruins,.544
-1979-80,Boston Bruins,.656
-1978-79,Boston Bruins,.625
-1977-78,Boston Bruins,.706
-1976-77,Boston Bruins,.663
-1975-76,Boston Bruins,.706
-1974-75,Boston Bruins,.588
-1973-74,Boston Bruins,.724
-1972-73,Boston Bruins,.686
-2023-24,Florida Panthers,.691
-2022-23,Florida Panthers,.561
-2021-22,Florida Panthers,.744
-2020-21,Florida Panthers,.705
-2019-20,Florida Panthers,.565
-2018-19,Florida Panthers,.524
-2017-18,Florida Panthers,.585
-2016-17,Florida Panthers,.494
-2015-16,Florida Panthers,.628
-2014-15,Florida Panthers,.555
-2013-14,Florida Panthers,.402
-2012-13,Florida Panthers,.375
-2011-12,Florida Panthers,.573
-2010-11,Florida Panthers,.439
-2009-10,Florida Panthers,.470
-2008-09,Florida Panthers,.567
-2007-08,Florida Panthers,.518
-2006-07,Florida Panthers,.524
-2005-06,Florida Panthers,.518
-2003-04,Florida Panthers,.457
-2002-03,Florida Panthers,.427
-2001-02,Florida Panthers,.366
-2000-01,Florida Panthers,.402
-1999-00,Florida Panthers,.598
-1998-99,Florida Panthers,.476
-1997-98,Florida Panthers,.384
-1996-97,Florida Panthers,.543
-1995-96,Florida Panthers,.561
-1994-95,Florida Panthers,.479
-1993-94,Florida Panthers,.494
-2023-24,Toronto Maple Leafs,.644
-2022-23,Toronto Maple Leafs,.677
-2021-22,Toronto Maple Leafs,.701
-2020-21,Toronto Maple Leafs,.688
-2019-20,Toronto Maple Leafs,.579
-2018-19,Toronto Maple Leafs,.610
-2017-18,Toronto Maple Leafs,.640
-2016-17,Toronto Maple Leafs,.579
-2015-16,Toronto Maple Leafs,.421
-2014-15,Toronto Maple Leafs,.415
-2013-14,Toronto Maple Leafs,.512
-2012-13,Toronto Maple Leafs,.594
-2011-12,Toronto Maple Leafs,.488
-2010-11,Toronto Maple Leafs,.518
-2009-10,Toronto Maple Leafs,.451
-2008-09,Toronto Maple Leafs,.494
-2007-08,Toronto Maple Leafs,.506
-2006-07,Toronto Maple Leafs,.555
-2005-06,Toronto Maple Leafs,.549
-2003-04,Toronto Maple Leafs,.628
-2002-03,Toronto Maple Leafs,.598
-2001-02,Toronto Maple Leafs,.610
-2000-01,Toronto Maple Leafs,.549
-1999-00,Toronto Maple Leafs,.610
-1998-99,Toronto Maple Leafs,.591
-1997-98,Toronto Maple Leafs,.421
-1996-97,Toronto Maple Leafs,.415
-1995-96,Toronto Maple Leafs,.488
-1994-95,Toronto Maple Leafs,.521
-1993-94,Toronto Maple Leafs,.583
-1992-93,Toronto Maple Leafs,.589
-1991-92,Toronto Maple Leafs,.419
-1990-91,Toronto Maple Leafs,.356
-1989-90,Toronto Maple Leafs,.500
-1988-89,Toronto Maple Leafs,.388
-1987-88,Toronto Maple Leafs,.325
-1986-87,Toronto Maple Leafs,.438
-1985-86,Toronto Maple Leafs,.356
-1984-85,Toronto Maple Leafs,.300
-1983-84,Toronto Maple Leafs,.381
-1982-83,Toronto Maple Leafs,.425
-1981-82,Toronto Maple Leafs,.350
-1980-81,Toronto Maple Leafs,.444
-1979-80,Toronto Maple Leafs,.469
-1978-79,Toronto Maple Leafs,.506
-1977-78,Toronto Maple Leafs,.575
-1976-77,Toronto Maple Leafs,.506
-1975-76,Toronto Maple Leafs,.519
-1974-75,Toronto Maple Leafs,.488
-1973-74,Toronto Maple Leafs,.551
-1972-73,Toronto Maple Leafs,.410
-2023-24,Tampa Bay Lightning,.582
-2022-23,Tampa Bay Lightning,.598
-2021-22,Tampa Bay Lightning,.671
-2020-21,Tampa Bay Lightning,.670
-2019-20,Tampa Bay Lightning,.657
-2018-19,Tampa Bay Lightning,.780
-2017-18,Tampa Bay Lightning,.689
-2016-17,Tampa Bay Lightning,.573
-2015-16,Tampa Bay Lightning,.591
-2014-15,Tampa Bay Lightning,.659
-2013-14,Tampa Bay Lightning,.616
-2012-13,Tampa Bay Lightning,.417
-2011-12,Tampa Bay Lightning,.512
-2010-11,Tampa Bay Lightning,.628
-2009-10,Tampa Bay Lightning,.488
-2008-09,Tampa Bay Lightning,.402
-2007-08,Tampa Bay Lightning,.433
-2006-07,Tampa Bay Lightning,.567
-2005-06,Tampa Bay Lightning,.561
-2003-04,Tampa Bay Lightning,.646
-2002-03,Tampa Bay Lightning,.567
-2001-02,Tampa Bay Lightning,.421
-2000-01,Tampa Bay Lightning,.360
-1999-00,Tampa Bay Lightning,.329
-1998-99,Tampa Bay Lightning,.287
-1997-98,Tampa Bay Lightning,.268
-1996-97,Tampa Bay Lightning,.451
-1995-96,Tampa Bay Lightning,.537
-1994-95,Tampa Bay Lightning,.385
-1993-94,Tampa Bay Lightning,.423
-1992-93,Tampa Bay Lightning,.315
-2023-24,Detroit Red Wings,.544
-2022-23,Detroit Red Wings,.488
-2021-22,Detroit Red Wings,.451
-2020-21,Detroit Red Wings,.429
-2019-20,Detroit Red Wings,.275
-2018-19,Detroit Red Wings,.451
-2017-18,Detroit Red Wings,.445
-2016-17,Detroit Red Wings,.482
-2015-16,Detroit Red Wings,.567
-2014-15,Detroit Red Wings,.610
-2013-14,Detroit Red Wings,.567
-2012-13,Detroit Red Wings,.583
-2011-12,Detroit Red Wings,.622
-2010-11,Detroit Red Wings,.634
-2009-10,Detroit Red Wings,.622
-2008-09,Detroit Red Wings,.683
-2007-08,Detroit Red Wings,.701
-2006-07,Detroit Red Wings,.689
-2005-06,Detroit Red Wings,.756
-2003-04,Detroit Red Wings,.665
-2002-03,Detroit Red Wings,.671
-2001-02,Detroit Red Wings,.707
-2000-01,Detroit Red Wings,.677
-1999-00,Detroit Red Wings,.659
-1998-99,Detroit Red Wings,.567
-1997-98,Detroit Red Wings,.628
-1996-97,Detroit Red Wings,.573
-1995-96,Detroit Red Wings,.799
-1994-95,Detroit Red Wings,.729
-1993-94,Detroit Red Wings,.595
-1992-93,Detroit Red Wings,.613
-1991-92,Detroit Red Wings,.613
-1990-91,Detroit Red Wings,.475
-1989-90,Detroit Red Wings,.438
-1988-89,Detroit Red Wings,.500
-1987-88,Detroit Red Wings,.581
-1986-87,Detroit Red Wings,.488
-1985-86,Detroit Red Wings,.250
-1984-85,Detroit Red Wings,.413
-1983-84,Detroit Red Wings,.431
-1982-83,Detroit Red Wings,.356
-1981-82,Detroit Red Wings,.338
-1980-81,Detroit Red Wings,.350
-1979-80,Detroit Red Wings,.394
-1978-79,Detroit Red Wings,.388
-1977-78,Detroit Red Wings,.488
-1976-77,Detroit Red Wings,.256
-1975-76,Detroit Red Wings,.388
-1974-75,Detroit Red Wings,.363
-1973-74,Detroit Red Wings,.436
-1972-73,Detroit Red Wings,.551
-2023-24,Buffalo Sabres,.514
-2022-23,Buffalo Sabres,.555
-2021-22,Buffalo Sabres,.457
-2020-21,Buffalo Sabres,.330
-2019-20,Buffalo Sabres,.493
-2018-19,Buffalo Sabres,.463
-2017-18,Buffalo Sabres,.378
-2016-17,Buffalo Sabres,.476
-2015-16,Buffalo Sabres,.494
-2014-15,Buffalo Sabres,.329
-2013-14,Buffalo Sabres,.317
-2012-13,Buffalo Sabres,.500
-2011-12,Buffalo Sabres,.543
-2010-11,Buffalo Sabres,.585
-2009-10,Buffalo Sabres,.610
-2008-09,Buffalo Sabres,.555
-2007-08,Buffalo Sabres,.549
-2006-07,Buffalo Sabres,.689
-2005-06,Buffalo Sabres,.671
-2003-04,Buffalo Sabres,.518
-2002-03,Buffalo Sabres,.439
-2001-02,Buffalo Sabres,.500
-2000-01,Buffalo Sabres,.598
-1999-00,Buffalo Sabres,.518
-1998-99,Buffalo Sabres,.555
-1997-98,Buffalo Sabres,.543
-1996-97,Buffalo Sabres,.561
-1995-96,Buffalo Sabres,.445
-1994-95,Buffalo Sabres,.531
-1993-94,Buffalo Sabres,.565
-1992-93,Buffalo Sabres,.512
-1991-92,Buffalo Sabres,.463
-1990-91,Buffalo Sabres,.506
-1989-90,Buffalo Sabres,.613
-1988-89,Buffalo Sabres,.519
-1987-88,Buffalo Sabres,.531
-1986-87,Buffalo Sabres,.400
-1985-86,Buffalo Sabres,.500
-1984-85,Buffalo Sabres,.563
-1983-84,Buffalo Sabres,.644
-1982-83,Buffalo Sabres,.556
-1981-82,Buffalo Sabres,.581
-1980-81,Buffalo Sabres,.619
-1979-80,Buffalo Sabres,.688
-1978-79,Buffalo Sabres,.550
-1977-78,Buffalo Sabres,.656
-1976-77,Buffalo Sabres,.650
-1975-76,Buffalo Sabres,.656
-1974-75,Buffalo Sabres,.706
-1973-74,Buffalo Sabres,.487
-1972-73,Buffalo Sabres,.564
-1971-72,Buffalo Sabres,.327
-2023-24,Montreal Canadiens,.455
-2022-23,Montreal Canadiens,.415
-2021-22,Montreal Canadiens,.335
-2020-21,Montreal Canadiens,.527
-2019-20,Montreal Canadiens,.500
-2018-19,Montreal Canadiens,.585
-2017-18,Montreal Canadiens,.433
-2016-17,Montreal Canadiens,.628
-2015-16,Montreal Canadiens,.500
-2014-15,Montreal Canadiens,.671
-2013-14,Montreal Canadiens,.610
-2012-13,Montreal Canadiens,.656
-2011-12,Montreal Canadiens,.476
-2010-11,Montreal Canadiens,.585
-2009-10,Montreal Canadiens,.537
-2008-09,Montreal Canadiens,.567
-2007-08,Montreal Canadiens,.634
-2006-07,Montreal Canadiens,.549
-2005-06,Montreal Canadiens,.567
-2003-04,Montreal Canadiens,.567
-2002-03,Montreal Canadiens,.470
-2001-02,Montreal Canadiens,.530
-2000-01,Montreal Canadiens,.427
-1999-00,Montreal Canadiens,.506
-1998-99,Montreal Canadiens,.457
-1997-98,Montreal Canadiens,.530
-1996-97,Montreal Canadiens,.470
-1995-96,Montreal Canadiens,.549
-1994-95,Montreal Canadiens,.448
-1993-94,Montreal Canadiens,.571
-1992-93,Montreal Canadiens,.607
-1991-92,Montreal Canadiens,.581
-1990-91,Montreal Canadiens,.556
-1989-90,Montreal Canadiens,.581
-1988-89,Montreal Canadiens,.719
-1987-88,Montreal Canadiens,.644
-1986-87,Montreal Canadiens,.575
-1985-86,Montreal Canadiens,.544
-1984-85,Montreal Canadiens,.588
-1983-84,Montreal Canadiens,.469
-1982-83,Montreal Canadiens,.613
-1981-82,Montreal Canadiens,.681
-1980-81,Montreal Canadiens,.644
-1979-80,Montreal Canadiens,.669
-1978-79,Montreal Canadiens,.719
-1977-78,Montreal Canadiens,.806
-1976-77,Montreal Canadiens,.825
-1975-76,Montreal Canadiens,.794
-1974-75,Montreal Canadiens,.706
-1973-74,Montreal Canadiens,.635
-1972-73,Montreal Canadiens,.769
-1971-72,Montreal Canadiens,.692
-2023-24,Ottawa Senators,.455
-2022-23,Ottawa Senators,.524
-2021-22,Ottawa Senators,.445
-2020-21,Ottawa Senators,.455
-2019-20,Ottawa Senators,.437
-2018-19,Ottawa Senators,.390
-2017-18,Ottawa Senators,.409
-2016-17,Ottawa Senators,.598
-2015-16,Ottawa Senators,.518
-2014-15,Ottawa Senators,.604
-2013-14,Ottawa Senators,.537
-2012-13,Ottawa Senators,.583
-2011-12,Ottawa Senators,.561
-2010-11,Ottawa Senators,.451
-2009-10,Ottawa Senators,.573
-2008-09,Ottawa Senators,.506
-2007-08,Ottawa Senators,.573
-2006-07,Ottawa Senators,.640
-2005-06,Ottawa Senators,.689
-2003-04,Ottawa Senators,.622
-2002-03,Ottawa Senators,.689
-2001-02,Ottawa Senators,.573
-2000-01,Ottawa Senators,.665
-1999-00,Ottawa Senators,.579
-1998-99,Ottawa Senators,.628
-1997-98,Ottawa Senators,.506
-1996-97,Ottawa Senators,.470
-1995-96,Ottawa Senators,.250
-1994-95,Ottawa Senators,.240
-1993-94,Ottawa Senators,.220
-1992-93,Ottawa Senators,.143
-2023-24,Dallas Stars,.678
-2022-23,Dallas Stars,.659
-2021-22,Dallas Stars,.598
-2020-21,Dallas Stars,.536
-2019-20,Dallas Stars,.594
-2018-19,Dallas Stars,.567
-2017-18,Dallas Stars,.561
-2016-17,Dallas Stars,.482
-2015-16,Dallas Stars,.665
-2014-15,Dallas Stars,.561
-2013-14,Dallas Stars,.555
-2012-13,Dallas Stars,.500
-2011-12,Dallas Stars,.543
-2010-11,Dallas Stars,.579
-2009-10,Dallas Stars,.537
-2008-09,Dallas Stars,.506
-2007-08,Dallas Stars,.591
-2006-07,Dallas Stars,.652
-2005-06,Dallas Stars,.683
-2003-04,Dallas Stars,.591
-2002-03,Dallas Stars,.677
-2001-02,Dallas Stars,.549
-2000-01,Dallas Stars,.646
-1999-00,Dallas Stars,.622
-1998-99,Dallas Stars,.695
-1997-98,Dallas Stars,.665
-1996-97,Dallas Stars,.634
-1995-96,Dallas Stars,.402
-1994-95,Dallas Stars,.438
-1993-94,Dallas Stars,.577
-1992-93,Minnesota North Stars,.488
-1991-92,Minnesota North Stars,.438
-1990-91,Minnesota North Stars,.425
-1989-90,Minnesota North Stars,.475
-1988-89,Minnesota North Stars,.438
-1987-88,Minnesota North Stars,.319
-1986-87,Minnesota North Stars,.438
-1985-86,Minnesota North Stars,.531
-1984-85,Minnesota North Stars,.388
-1983-84,Minnesota North Stars,.550
-1982-83,Minnesota North Stars,.600
-1981-82,Minnesota North Stars,.588
-1980-81,Minnesota North Stars,.544
-1979-80,Minnesota North Stars,.550
-1978-79,Minnesota North Stars,.425
-1977-78,Minnesota North Stars,.281
-1976-77,Minnesota North Stars,.400
-1975-76,Minnesota North Stars,.294
-1974-75,Minnesota North Stars,.331
-1973-74,Minnesota North Stars,.404
-1972-73,Minnesota North Stars,.545
-2023-24,Colorado Avalanche,.674
-2022-23,Colorado Avalanche,.665
-2021-22,Colorado Avalanche,.726
-2020-21,Colorado Avalanche,.732
-2019-20,Colorado Avalanche,.657
-2018-19,Colorado Avalanche,.549
-2017-18,Colorado Avalanche,.579
-2016-17,Colorado Avalanche,.293
-2015-16,Colorado Avalanche,.500
-2014-15,Colorado Avalanche,.549
-2013-14,Colorado Avalanche,.683
-2012-13,Colorado Avalanche,.406
-2011-12,Colorado Avalanche,.537
-2010-11,Colorado Avalanche,.415
-2009-10,Colorado Avalanche,.579
-2008-09,Colorado Avalanche,.421
-2007-08,Colorado Avalanche,.579
-2006-07,Colorado Avalanche,.579
-2005-06,Colorado Avalanche,.579
-2003-04,Colorado Avalanche,.610
-2002-03,Colorado Avalanche,.640
-2001-02,Colorado Avalanche,.604
-2000-01,Colorado Avalanche,.720
-1999-00,Colorado Avalanche,.585
-1998-99,Colorado Avalanche,.598
-1997-98,Colorado Avalanche,.579
-1996-97,Colorado Avalanche,.652
-1995-96,Colorado Avalanche,.634
-1994-95,Quebec Nordiques,.677
-1993-94,Quebec Nordiques,.452
-1992-93,Quebec Nordiques,.619
-1991-92,Quebec Nordiques,.325
-1990-91,Quebec Nordiques,.288
-1989-90,Quebec Nordiques,.194
-1988-89,Quebec Nordiques,.381
-1987-88,Quebec Nordiques,.431
-1986-87,Quebec Nordiques,.450
-1985-86,Quebec Nordiques,.575
-1984-85,Quebec Nordiques,.569
-1983-84,Quebec Nordiques,.588
-1982-83,Quebec Nordiques,.500
-1981-82,Quebec Nordiques,.513
-1980-81,Quebec Nordiques,.488
-1979-80,Quebec Nordiques,.381
-2023-24,Winnipeg Jets,.653
-2022-23,Winnipeg Jets,.579
-2021-22,Winnipeg Jets,.543
-2020-21,Winnipeg Jets,.563
-2019-20,Winnipeg Jets,.563
-2018-19,Winnipeg Jets,.604
-2017-18,Winnipeg Jets,.695
-2016-17,Winnipeg Jets,.530
-2015-16,Winnipeg Jets,.476
-2014-15,Winnipeg Jets,.604
-2013-14,Winnipeg Jets,.512
-2012-13,Winnipeg Jets,.531
-2011-12,Winnipeg Jets,.512
-2010-11,Atlanta Thrashers,.488
-2009-10,Atlanta Thrashers,.506
-2008-09,Atlanta Thrashers,.463
-2007-08,Atlanta Thrashers,.463
-2006-07,Atlanta Thrashers,.591
-2005-06,Atlanta Thrashers,.549
-2003-04,Atlanta Thrashers,.476
-2002-03,Atlanta Thrashers,.451
-2001-02,Atlanta Thrashers,.329
-2000-01,Atlanta Thrashers,.366
-1999-00,Atlanta Thrashers,.238
-2023-24,Nashville Predators,.625
-2022-23,Nashville Predators,.561
-2021-22,Nashville Predators,.591
-2020-21,Nashville Predators,.571
-2019-20,Nashville Predators,.565
-2018-19,Nashville Predators,.610
-2017-18,Nashville Predators,.713
-2016-17,Nashville Predators,.573
-2015-16,Nashville Predators,.585
-2014-15,Nashville Predators,.634
-2013-14,Nashville Predators,.537
-2012-13,Nashville Predators,.427
-2011-12,Nashville Predators,.634
-2010-11,Nashville Predators,.604
-2009-10,Nashville Predators,.610
-2008-09,Nashville Predators,.537
-2007-08,Nashville Predators,.555
-2006-07,Nashville Predators,.671
-2005-06,Nashville Predators,.646
-2003-04,Nashville Predators,.555
-2002-03,Nashville Predators,.451
-2001-02,Nashville Predators,.421
-2000-01,Nashville Predators,.488
-1999-00,Nashville Predators,.427
-1998-99,Nashville Predators,.384
-2023-24,St. Louis Blues,.556
-2022-23,St. Louis Blues,.494
-2021-22,St. Louis Blues,.665
-2020-21,St. Louis Blues,.563
-2019-20,St. Louis Blues,.662
-2018-19,St. Louis Blues,.604
-2017-18,St. Louis Blues,.573
-2016-17,St. Louis Blues,.604
-2015-16,St. Louis Blues,.652
-2014-15,St. Louis Blues,.665
-2013-14,St. Louis Blues,.677
-2012-13,St. Louis Blues,.625
-2011-12,St. Louis Blues,.665
-2010-11,St. Louis Blues,.530
-2009-10,St. Louis Blues,.549
-2008-09,St. Louis Blues,.561
-2007-08,St. Louis Blues,.482
-2006-07,St. Louis Blues,.494
-2005-06,St. Louis Blues,.348
-2003-04,St. Louis Blues,.555
-2002-03,St. Louis Blues,.604
-2001-02,St. Louis Blues,.598
-2000-01,St. Louis Blues,.628
-1999-00,St. Louis Blues,.695
-1998-99,St. Louis Blues,.530
-1997-98,St. Louis Blues,.598
-1996-97,St. Louis Blues,.506
-1995-96,St. Louis Blues,.488
-1994-95,St. Louis Blues,.635
-1993-94,St. Louis Blues,.542
-1992-93,St. Louis Blues,.506
-1991-92,St. Louis Blues,.519
-1990-91,St. Louis Blues,.656
-1989-90,St. Louis Blues,.519
-1988-89,St. Louis Blues,.488
-1987-88,St. Louis Blues,.475
-1986-87,St. Louis Blues,.494
-1985-86,St. Louis Blues,.519
-1984-85,St. Louis Blues,.538
-1983-84,St. Louis Blues,.444
-1982-83,St. Louis Blues,.406
-1981-82,St. Louis Blues,.450
-1980-81,St. Louis Blues,.669
-1979-80,St. Louis Blues,.500
-1978-79,St. Louis Blues,.300
-1977-78,St. Louis Blues,.331
-1976-77,St. Louis Blues,.456
-1975-76,St. Louis Blues,.450
-1974-75,St. Louis Blues,.525
-1973-74,St. Louis Blues,.410
-1972-73,St. Louis Blues,.487
-2023-24,Minnesota Wild,.542
-2022-23,Minnesota Wild,.628
-2021-22,Minnesota Wild,.689
-2020-21,Minnesota Wild,.670
-2019-20,Minnesota Wild,.558
-2018-19,Minnesota Wild,.506
-2017-18,Minnesota Wild,.616
-2016-17,Minnesota Wild,.646
-2015-16,Minnesota Wild,.530
-2014-15,Minnesota Wild,.610
-2013-14,Minnesota Wild,.598
-2012-13,Minnesota Wild,.573
-2011-12,Minnesota Wild,.494
-2010-11,Minnesota Wild,.524
-2009-10,Minnesota Wild,.512
-2008-09,Minnesota Wild,.543
-2007-08,Minnesota Wild,.598
-2006-07,Minnesota Wild,.634
-2005-06,Minnesota Wild,.512
-2003-04,Minnesota Wild,.506
-2002-03,Minnesota Wild,.579
-2001-02,Minnesota Wild,.445
-2000-01,Minnesota Wild,.415
-2023-24,Arizona Coyotes,.451
-2022-23,Arizona Coyotes,.427
-2021-22,Arizona Coyotes,.348
-2020-21,Arizona Coyotes,.482
-2019-20,Arizona Coyotes,.529
-2018-19,Arizona Coyotes,.524
-2017-18,Arizona Coyotes,.427
-2016-17,Arizona Coyotes,.427
-2015-16,Arizona Coyotes,.476
-2014-15,Arizona Coyotes,.341
-2013-14,Phoenix Coyotes,.543
-2012-13,Phoenix Coyotes,.531
-2011-12,Phoenix Coyotes,.591
-2010-11,Phoenix Coyotes,.604
-2009-10,Phoenix Coyotes,.652
-2008-09,Phoenix Coyotes,.482
-2007-08,Phoenix Coyotes,.506
-2006-07,Phoenix Coyotes,.409
-2005-06,Phoenix Coyotes,.494
-2003-04,Phoenix Coyotes,.415
-2002-03,Phoenix Coyotes,.476
-2001-02,Phoenix Coyotes,.579
-2000-01,Phoenix Coyotes,.549
-1999-00,Phoenix Coyotes,.549
-1998-99,Phoenix Coyotes,.549
-1997-98,Phoenix Coyotes,.500
-1996-97,Phoenix Coyotes,.506
-1995-96,Winnipeg Jets,.476
-1994-95,Winnipeg Jets,.406
-1993-94,Winnipeg Jets,.339
-1992-93,Winnipeg Jets,.518
-1991-92,Winnipeg Jets,.506
-1990-91,Winnipeg Jets,.394
-1989-90,Winnipeg Jets,.531
-1988-89,Winnipeg Jets,.400
-1987-88,Winnipeg Jets,.481
-1986-87,Winnipeg Jets,.550
-1985-86,Winnipeg Jets,.369
-1984-85,Winnipeg Jets,.600
-1983-84,Winnipeg Jets,.456
-1982-83,Winnipeg Jets,.463
-1981-82,Winnipeg Jets,.500
-1980-81,Winnipeg Jets,.200
-1979-80,Winnipeg Jets,.319
-2023-24,Chicago Blackhawks,.326
-2022-23,Chicago Blackhawks,.360
-2021-22,Chicago Blackhawks,.415
-2020-21,Chicago Blackhawks,.491
-2019-20,Chicago Blackhawks,.514
-2018-19,Chicago Blackhawks,.512
-2017-18,Chicago Blackhawks,.463
-2016-17,Chicago Blackhawks,.665
-2015-16,Chicago Blackhawks,.628
-2014-15,Chicago Blackhawks,.622
-2013-14,Chicago Blackhawks,.652
-2012-13,Chicago Blackhawks,.802
-2011-12,Chicago Blackhawks,.616
-2010-11,Chicago Blackhawks,.591
-2009-10,Chicago Blackhawks,.683
-2008-09,Chicago Blackhawks,.634
-2007-08,Chicago Blackhawks,.537
-2006-07,Chicago Blackhawks,.433
-2005-06,Chicago Blackhawks,.396
-2003-04,Chicago Blackhawks,.360
-2002-03,Chicago Blackhawks,.482
-2001-02,Chicago Blackhawks,.585
-2000-01,Chicago Blackhawks,.433
-1999-00,Chicago Blackhawks,.476
-1998-99,Chicago Blackhawks,.427
-1997-98,Chicago Blackhawks,.445
-1996-97,Chicago Blackhawks,.494
-1995-96,Chicago Blackhawks,.573
-1994-95,Chicago Blackhawks,.552
-1993-94,Chicago Blackhawks,.518
-1992-93,Chicago Blackhawks,.631
-1991-92,Chicago Blackhawks,.544
-1990-91,Chicago Blackhawks,.663
-1989-90,Chicago Blackhawks,.550
-1988-89,Chicago Blackhawks,.413
-1987-88,Chicago Blackhawks,.431
-1986-87,Chicago Blackhawks,.450
-1985-86,Chicago Blackhawks,.538
-1984-85,Chicago Blackhawks,.519
-1983-84,Chicago Blackhawks,.425
-1982-83,Chicago Blackhawks,.650
-1981-82,Chicago Blackhawks,.450
-1980-81,Chicago Blackhawks,.488
-1979-80,Chicago Blackhawks,.544
-1978-79,Chicago Blackhawks,.456
-1977-78,Chicago Blackhawks,.519
-1976-77,Chicago Blackhawks,.394
-1975-76,Chicago Blackhawks,.513
-1974-75,Chicago Blackhawks,.513
-1973-74,Chicago Blackhawks,.673
-1972-73,Chicago Blackhawks,.596
-2023-24,Vancouver Canucks,.681
-2022-23,Vancouver Canucks,.506
-2021-22,Vancouver Canucks,.561
-2020-21,Vancouver Canucks,.446
-2019-20,Vancouver Canucks,.565
-2018-19,Vancouver Canucks,.494
-2017-18,Vancouver Canucks,.445
-2016-17,Vancouver Canucks,.421
-2015-16,Vancouver Canucks,.457
-2014-15,Vancouver Canucks,.616
-2013-14,Vancouver Canucks,.506
-2012-13,Vancouver Canucks,.615
-2011-12,Vancouver Canucks,.677
-2010-11,Vancouver Canucks,.713
-2009-10,Vancouver Canucks,.628
-2008-09,Vancouver Canucks,.610
-2007-08,Vancouver Canucks,.537
-2006-07,Vancouver Canucks,.640
-2005-06,Vancouver Canucks,.561
-2003-04,Vancouver Canucks,.616
-2002-03,Vancouver Canucks,.634
-2001-02,Vancouver Canucks,.573
-2000-01,Vancouver Canucks,.549
-1999-00,Vancouver Canucks,.506
-1998-99,Vancouver Canucks,.354
-1997-98,Vancouver Canucks,.390
-1996-97,Vancouver Canucks,.470
-1995-96,Vancouver Canucks,.482
-1994-95,Vancouver Canucks,.500
-1993-94,Vancouver Canucks,.506
-1992-93,Vancouver Canucks,.601
-1991-92,Vancouver Canucks,.600
-1990-91,Vancouver Canucks,.406
-1989-90,Vancouver Canucks,.400
-1988-89,Vancouver Canucks,.463
-1987-88,Vancouver Canucks,.369
-1986-87,Vancouver Canucks,.413
-1985-86,Vancouver Canucks,.369
-1984-85,Vancouver Canucks,.369
-1983-84,Vancouver Canucks,.456
-1982-83,Vancouver Canucks,.469
-1981-82,Vancouver Canucks,.481
-1980-81,Vancouver Canucks,.475
-1979-80,Vancouver Canucks,.438
-1978-79,Vancouver Canucks,.394
-1977-78,Vancouver Canucks,.356
-1976-77,Vancouver Canucks,.394
-1975-76,Vancouver Canucks,.506
-1974-75,Vancouver Canucks,.538
-1973-74,Vancouver Canucks,.378
-1972-73,Vancouver Canucks,.340
-2023-24,Edmonton Oilers,.643
-2022-23,Edmonton Oilers,.665
-2021-22,Edmonton Oilers,.634
-2020-21,Edmonton Oilers,.643
-2019-20,Edmonton Oilers,.585
-2018-19,Edmonton Oilers,.482
-2017-18,Edmonton Oilers,.476
-2016-17,Edmonton Oilers,.628
-2015-16,Edmonton Oilers,.427
-2014-15,Edmonton Oilers,.378
-2013-14,Edmonton Oilers,.409
-2012-13,Edmonton Oilers,.469
-2011-12,Edmonton Oilers,.451
-2010-11,Edmonton Oilers,.378
-2009-10,Edmonton Oilers,.378
-2008-09,Edmonton Oilers,.518
-2007-08,Edmonton Oilers,.537
-2006-07,Edmonton Oilers,.433
-2005-06,Edmonton Oilers,.579
-2003-04,Edmonton Oilers,.543
-2002-03,Edmonton Oilers,.561
-2001-02,Edmonton Oilers,.561
-2000-01,Edmonton Oilers,.567
-1999-00,Edmonton Oilers,.537
-1998-99,Edmonton Oilers,.476
-1997-98,Edmonton Oilers,.488
-1996-97,Edmonton Oilers,.494
-1995-96,Edmonton Oilers,.415
-1994-95,Edmonton Oilers,.396
-1993-94,Edmonton Oilers,.381
-1992-93,Edmonton Oilers,.357
-1991-92,Edmonton Oilers,.513
-1990-91,Edmonton Oilers,.500
-1989-90,Edmonton Oilers,.563
-1988-89,Edmonton Oilers,.525
-1987-88,Edmonton Oilers,.619
-1986-87,Edmonton Oilers,.663
-1985-86,Edmonton Oilers,.744
-1984-85,Edmonton Oilers,.681
-1983-84,Edmonton Oilers,.744
-1982-83,Edmonton Oilers,.663
-1981-82,Edmonton Oilers,.694
-1980-81,Edmonton Oilers,.463
-1979-80,Edmonton Oilers,.431
-2023-24,Los Angeles Kings,.613
-2022-23,Los Angeles Kings,.634
-2021-22,Los Angeles Kings,.604
-2020-21,Los Angeles Kings,.438
-2019-20,Los Angeles Kings,.457
-2018-19,Los Angeles Kings,.433
-2017-18,Los Angeles Kings,.598
-2016-17,Los Angeles Kings,.524
-2015-16,Los Angeles Kings,.622
-2014-15,Los Angeles Kings,.579
-2013-14,Los Angeles Kings,.610
-2012-13,Los Angeles Kings,.615
-2011-12,Los Angeles Kings,.579
-2010-11,Los Angeles Kings,.598
-2009-10,Los Angeles Kings,.616
-2008-09,Los Angeles Kings,.482
-2007-08,Los Angeles Kings,.433
-2006-07,Los Angeles Kings,.415
-2005-06,Los Angeles Kings,.543
-2003-04,Los Angeles Kings,.494
-2002-03,Los Angeles Kings,.482
-2001-02,Los Angeles Kings,.579
-2000-01,Los Angeles Kings,.561
-1999-00,Los Angeles Kings,.573
-1998-99,Los Angeles Kings,.421
-1997-98,Los Angeles Kings,.530
-1996-97,Los Angeles Kings,.409
-1995-96,Los Angeles Kings,.402
-1994-95,Los Angeles Kings,.427
-1993-94,Los Angeles Kings,.393
-1992-93,Los Angeles Kings,.524
-1991-92,Los Angeles Kings,.525
-1990-91,Los Angeles Kings,.638
-1989-90,Los Angeles Kings,.469
-1988-89,Los Angeles Kings,.569
-1987-88,Los Angeles Kings,.425
-1986-87,Los Angeles Kings,.438
-1985-86,Los Angeles Kings,.338
-1984-85,Los Angeles Kings,.513
-1983-84,Los Angeles Kings,.369
-1982-83,Los Angeles Kings,.413
-1981-82,Los Angeles Kings,.394
-1980-81,Los Angeles Kings,.619
-1979-80,Los Angeles Kings,.463
-1978-79,Los Angeles Kings,.500
-1977-78,Los Angeles Kings,.481
-1976-77,Los Angeles Kings,.519
-1975-76,Los Angeles Kings,.531
-1974-75,Los Angeles Kings,.656
-1973-74,Los Angeles Kings,.500
-1972-73,Los Angeles Kings,.468
-2023-24,Vegas Golden Knights,.597
-2022-23,Vegas Golden Knights,.677
-2021-22,Vegas Golden Knights,.573
-2020-21,Vegas Golden Knights,.732
-2019-20,Vegas Golden Knights,.606
-2018-19,Vegas Golden Knights,.567
-2017-18,Vegas Golden Knights,.665
-2023-24,Seattle Kraken,.500
-2022-23,Seattle Kraken,.610
-2021-22,Seattle Kraken,.366
-2023-24,Calgary Flames,.500
-2022-23,Calgary Flames,.567
-2021-22,Calgary Flames,.677
-2020-21,Calgary Flames,.491
-2019-20,Calgary Flames,.564
-2018-19,Calgary Flames,.652
-2017-18,Calgary Flames,.512
-2016-17,Calgary Flames,.573
-2015-16,Calgary Flames,.470
-2014-15,Calgary Flames,.591
-2013-14,Calgary Flames,.470
-2012-13,Calgary Flames,.438
-2011-12,Calgary Flames,.549
-2010-11,Calgary Flames,.573
-2009-10,Calgary Flames,.549
-2008-09,Calgary Flames,.598
-2007-08,Calgary Flames,.573
-2006-07,Calgary Flames,.585
-2005-06,Calgary Flames,.628
-2003-04,Calgary Flames,.573
-2002-03,Calgary Flames,.457
-2001-02,Calgary Flames,.482
-2000-01,Calgary Flames,.445
-1999-00,Calgary Flames,.470
-1998-99,Calgary Flames,.439
-1997-98,Calgary Flames,.409
-1996-97,Calgary Flames,.445
-1995-96,Calgary Flames,.482
-1994-95,Calgary Flames,.573
-1993-94,Calgary Flames,.577
-1992-93,Calgary Flames,.577
-1991-92,Calgary Flames,.463
-1990-91,Calgary Flames,.625
-1989-90,Calgary Flames,.619
-1988-89,Calgary Flames,.731
-1987-88,Calgary Flames,.656
-1986-87,Calgary Flames,.594
-1985-86,Calgary Flames,.556
-1984-85,Calgary Flames,.588
-1983-84,Calgary Flames,.513
-1982-83,Calgary Flames,.488
-1981-82,Calgary Flames,.469
-1980-81,Calgary Flames,.575
-1979-80,Atlanta Flames,.519
-1978-79,Atlanta Flames,.563
-1977-78,Atlanta Flames,.544
-1976-77,Atlanta Flames,.500
-1975-76,Atlanta Flames,.513
-1974-75,Atlanta Flames,.519
-1973-74,Atlanta Flames,.474
-1972-73,Atlanta Flames,.417
-2023-24,Anaheim Ducks,.361
-2022-23,Anaheim Ducks,.354
-2021-22,Anaheim Ducks,.463
-2020-21,Anaheim Ducks,.384
-2019-20,Anaheim Ducks,.472
-2018-19,Anaheim Ducks,.488
-2017-18,Anaheim Ducks,.616
-2016-17,Anaheim Ducks,.640
-2015-16,Anaheim Ducks,.628
-2014-15,Anaheim Ducks,.665
-2013-14,Anaheim Ducks,.707
-2012-13,Anaheim Ducks,.688
-2011-12,Anaheim Ducks,.488
-2010-11,Anaheim Ducks,.604
-2009-10,Anaheim Ducks,.543
-2008-09,Anaheim Ducks,.555
-2007-08,Anaheim Ducks,.622
-2006-07,Anaheim Ducks,.671
-2005-06,Mighty Ducks of Anaheim,.598
-2003-04,Mighty Ducks of Anaheim,.463
-2002-03,Mighty Ducks of Anaheim,.579
-2001-02,Mighty Ducks of Anaheim,.421
-2000-01,Mighty Ducks of Anaheim,.402
-1999-00,Mighty Ducks of Anaheim,.506
-1998-99,Mighty Ducks of Anaheim,.506
-1997-98,Mighty Ducks of Anaheim,.396
-1996-97,Mighty Ducks of Anaheim,.518
-1995-96,Mighty Ducks of Anaheim,.476
-1994-95,Mighty Ducks of Anaheim,.385
-1993-94,Mighty Ducks of Anaheim,.423
-2023-24,San Jose Sharks,.282
-2022-23,San Jose Sharks,.366
-2021-22,San Jose Sharks,.470
-2020-21,San Jose Sharks,.438
-2019-20,San Jose Sharks,.450
-2018-19,San Jose Sharks,.616
-2017-18,San Jose Sharks,.610
-2016-17,San Jose Sharks,.604
-2015-16,San Jose Sharks,.598
-2014-15,San Jose Sharks,.543
-2013-14,San Jose Sharks,.677
-2012-13,San Jose Sharks,.594
-2011-12,San Jose Sharks,.585
-2010-11,San Jose Sharks,.640
-2009-10,San Jose Sharks,.689
-2008-09,San Jose Sharks,.713
-2007-08,San Jose Sharks,.659
-2006-07,San Jose Sharks,.652
-2005-06,San Jose Sharks,.604
-2003-04,San Jose Sharks,.634
-2002-03,San Jose Sharks,.445
-2001-02,San Jose Sharks,.604
-2000-01,San Jose Sharks,.579
-1999-00,San Jose Sharks,.530
-1998-99,San Jose Sharks,.488
-1997-98,San Jose Sharks,.476
-1996-97,San Jose Sharks,.378
-1995-96,San Jose Sharks,.287
-1994-95,San Jose Sharks,.438
-1993-94,San Jose Sharks,.488
-1992-93,San Jose Sharks,.143
-1991-92,San Jose Sharks,.244
+team	season	pts_pct
+NYR	2023-24	0.691
+NYR	2022-23	0.652
+NYR	2021-22	0.671
+NYR	2020-21	0.536
+NYR	2019-20	0.564
+NYR	2018-19	0.476
+NYR	2017-18	0.47
+NYR	2016-17	0.622
+NYR	2015-16	0.616
+NYR	2014-15	0.689
+NYR	2013-14	0.585
+NYR	2012-13	0.583
+NYR	2011-12	0.665
+NYR	2010-11	0.567
+NYR	2009-10	0.53
+NYR	2008-09	0.579
+NYR	2007-08	0.591
+NYR	2006-07	0.573
+NYR	2005-06	0.61
+NYR	2003-04	0.421
+NYR	2002-03	0.476
+NYR	2001-02	0.488
+NYR	2000-01	0.439
+NYR	1999-00	0.445
+NYR	1998-99	0.47
+NYR	1997-98	0.415
+NYR	1996-97	0.524
+NYR	1995-96	0.585
+NYR	1994-95	0.49
+NYR	1993-94	0.667
+NYR	1992-93	0.47
+NYR	1991-92	0.656
+NYR	1990-91	0.531
+NYR	1989-90	0.531
+NYR	1988-89	0.513
+NYR	1987-88	0.513
+NYR	1986-87	0.475
+NYR	1985-86	0.488
+NYR	1984-85	0.388
+NYR	1983-84	0.581
+NYR	1982-83	0.5
+NYR	1981-82	0.575
+NYR	1980-81	0.463
+NYR	1979-80	0.538
+NYR	1978-79	0.569
+NYR	1977-78	0.456
+NYR	1976-77	0.45
+NYR	1975-76	0.419
+NYR	1974-75	0.55
+NYR	1973-74	0.603
+CAR	2023-24	0.662
+CAR	2022-23	0.689
+CAR	2021-22	0.707
+CAR	2020-21	0.714
+CAR	2019-20	0.596
+CAR	2018-19	0.604
+CAR	2017-18	0.506
+CAR	2016-17	0.53
+CAR	2015-16	0.524
+CAR	2014-15	0.433
+CAR	2013-14	0.506
+CAR	2012-13	0.438
+CAR	2011-12	0.5
+CAR	2010-11	0.555
+CAR	2009-10	0.488
+CAR	2008-09	0.591
+CAR	2007-08	0.561
+CAR	2006-07	0.537
+CAR	2005-06	0.683
+CAR	2003-04	0.463
+CAR	2002-03	0.372
+CAR	2001-02	0.555
+CAR	2000-01	0.537
+CAR	1999-00	0.512
+CAR	1998-99	0.524
+CAR	1997-98	0.451
+NA	1996-97	0.457
+NA	1995-96	0.47
+NA	1994-95	0.448
+NA	1993-94	0.375
+NA	1992-93	0.345
+NA	1991-92	0.406
+NA	1990-91	0.456
+NA	1989-90	0.531
+NA	1988-89	0.494
+NA	1987-88	0.481
+NA	1986-87	0.581
+NA	1985-86	0.525
+NA	1984-85	0.431
+NA	1983-84	0.413
+NA	1982-83	0.281
+NA	1981-82	0.375
+NA	1980-81	0.375
+NA	1979-80	0.456
+PHI	2023-24	0.559
+PHI	2022-23	0.457
+PHI	2021-22	0.372
+PHI	2020-21	0.518
+PHI	2019-20	0.645
+PHI	2018-19	0.5
+PHI	2017-18	0.598
+PHI	2016-17	0.537
+PHI	2015-16	0.585
+PHI	2014-15	0.512
+PHI	2013-14	0.573
+PHI	2012-13	0.51
+PHI	2011-12	0.628
+PHI	2010-11	0.646
+PHI	2009-10	0.537
+PHI	2008-09	0.604
+PHI	2007-08	0.579
+PHI	2006-07	0.341
+PHI	2005-06	0.616
+PHI	2003-04	0.616
+PHI	2002-03	0.652
+PHI	2001-02	0.591
+PHI	2000-01	0.61
+PHI	1999-00	0.64
+PHI	1998-99	0.567
+PHI	1997-98	0.579
+PHI	1996-97	0.628
+PHI	1995-96	0.628
+PHI	1994-95	0.625
+PHI	1993-94	0.476
+PHI	1992-93	0.494
+PHI	1991-92	0.469
+PHI	1990-91	0.475
+PHI	1989-90	0.444
+PHI	1988-89	0.5
+PHI	1987-88	0.531
+PHI	1986-87	0.625
+PHI	1985-86	0.688
+PHI	1984-85	0.706
+PHI	1983-84	0.613
+PHI	1982-83	0.663
+PHI	1981-82	0.544
+PHI	1980-81	0.606
+PHI	1979-80	0.725
+PHI	1978-79	0.594
+PHI	1977-78	0.656
+PHI	1976-77	0.7
+PHI	1975-76	0.738
+PHI	1974-75	0.706
+PHI	1973-74	0.718
+WSH	2023-24	0.553
+WSH	2022-23	0.488
+WSH	2021-22	0.61
+WSH	2020-21	0.688
+WSH	2019-20	0.652
+WSH	2018-19	0.634
+WSH	2017-18	0.64
+WSH	2016-17	0.72
+WSH	2015-16	0.732
+WSH	2014-15	0.616
+WSH	2013-14	0.549
+WSH	2012-13	0.594
+WSH	2011-12	0.561
+WSH	2010-11	0.652
+WSH	2009-10	0.738
+WSH	2008-09	0.659
+WSH	2007-08	0.573
+WSH	2006-07	0.427
+WSH	2005-06	0.427
+WSH	2003-04	0.36
+WSH	2002-03	0.561
+WSH	2001-02	0.518
+WSH	2000-01	0.585
+WSH	1999-00	0.622
+WSH	1998-99	0.415
+WSH	1997-98	0.561
+WSH	1996-97	0.457
+WSH	1995-96	0.543
+WSH	1994-95	0.542
+WSH	1993-94	0.524
+WSH	1992-93	0.554
+WSH	1991-92	0.613
+WSH	1990-91	0.506
+WSH	1989-90	0.488
+WSH	1988-89	0.575
+WSH	1987-88	0.531
+WSH	1986-87	0.538
+WSH	1985-86	0.669
+WSH	1984-85	0.631
+WSH	1983-84	0.631
+WSH	1982-83	0.588
+WSH	1981-82	0.406
+WSH	1980-81	0.438
+WSH	1979-80	0.419
+WSH	1978-79	0.394
+WSH	1977-78	0.3
+WSH	1976-77	0.388
+WSH	1975-76	0.2
+WSH	1974-75	0.131
+NYI	2023-24	0.545
+NYI	2022-23	0.567
+NYI	2021-22	0.512
+NYI	2020-21	0.634
+NYI	2019-20	0.588
+NYI	2018-19	0.628
+NYI	2017-18	0.488
+NYI	2016-17	0.573
+NYI	2015-16	0.61
+NYI	2014-15	0.616
+NYI	2013-14	0.482
+NYI	2012-13	0.573
+NYI	2011-12	0.482
+NYI	2010-11	0.445
+NYI	2009-10	0.482
+NYI	2008-09	0.372
+NYI	2007-08	0.482
+NYI	2006-07	0.561
+NYI	2005-06	0.476
+NYI	2003-04	0.555
+NYI	2002-03	0.506
+NYI	2001-02	0.585
+NYI	2000-01	0.317
+NYI	1999-00	0.354
+NYI	1998-99	0.354
+NYI	1997-98	0.433
+NYI	1996-97	0.427
+NYI	1995-96	0.329
+NYI	1994-95	0.365
+NYI	1993-94	0.5
+NYI	1992-93	0.518
+NYI	1991-92	0.494
+NYI	1990-91	0.375
+NYI	1989-90	0.456
+NYI	1988-89	0.381
+NYI	1987-88	0.55
+NYI	1986-87	0.513
+NYI	1985-86	0.563
+NYI	1984-85	0.538
+NYI	1983-84	0.65
+NYI	1982-83	0.6
+NYI	1981-82	0.738
+NYI	1980-81	0.688
+NYI	1979-80	0.569
+NYI	1978-79	0.725
+NYI	1977-78	0.694
+NYI	1976-77	0.663
+NYI	1975-76	0.631
+NYI	1974-75	0.55
+NYI	1973-74	0.359
+NYI	1972-73	0.192
+PIT	2023-24	0.515
+PIT	2022-23	0.555
+PIT	2021-22	0.628
+PIT	2020-21	0.688
+PIT	2019-20	0.623
+PIT	2018-19	0.61
+PIT	2017-18	0.61
+PIT	2016-17	0.677
+PIT	2015-16	0.634
+PIT	2014-15	0.598
+PIT	2013-14	0.665
+PIT	2012-13	0.75
+PIT	2011-12	0.659
+PIT	2010-11	0.646
+PIT	2009-10	0.616
+PIT	2008-09	0.604
+PIT	2007-08	0.622
+PIT	2006-07	0.64
+PIT	2005-06	0.354
+PIT	2003-04	0.354
+PIT	2002-03	0.396
+PIT	2001-02	0.421
+PIT	2000-01	0.585
+PIT	1999-00	0.537
+PIT	1998-99	0.549
+PIT	1997-98	0.598
+PIT	1996-97	0.512
+PIT	1995-96	0.622
+PIT	1994-95	0.635
+PIT	1993-94	0.601
+PIT	1992-93	0.708
+PIT	1991-92	0.544
+PIT	1990-91	0.55
+PIT	1989-90	0.45
+PIT	1988-89	0.544
+PIT	1987-88	0.506
+PIT	1986-87	0.45
+PIT	1985-86	0.475
+PIT	1984-85	0.331
+PIT	1983-84	0.238
+PIT	1982-83	0.281
+PIT	1981-82	0.469
+PIT	1980-81	0.456
+PIT	1979-80	0.456
+PIT	1978-79	0.531
+PIT	1977-78	0.425
+PIT	1976-77	0.506
+PIT	1975-76	0.513
+PIT	1974-75	0.556
+PIT	1973-74	0.417
+NJD	2023-24	0.5
+NJD	2022-23	0.683
+NJD	2021-22	0.384
+NJD	2020-21	0.402
+NJD	2019-20	0.493
+NJD	2018-19	0.439
+NJD	2017-18	0.591
+NJD	2016-17	0.427
+NJD	2015-16	0.512
+NJD	2014-15	0.476
+NJD	2013-14	0.537
+NJD	2012-13	0.5
+NJD	2011-12	0.622
+NJD	2010-11	0.494
+NJD	2009-10	0.628
+NJD	2008-09	0.646
+NJD	2007-08	0.604
+NJD	2006-07	0.652
+NJD	2005-06	0.616
+NJD	2003-04	0.61
+NJD	2002-03	0.659
+NJD	2001-02	0.579
+NJD	2000-01	0.677
+NJD	1999-00	0.628
+NJD	1998-99	0.64
+NJD	1997-98	0.652
+NJD	1996-97	0.634
+NJD	1995-96	0.524
+NJD	1994-95	0.542
+NJD	1993-94	0.631
+NJD	1992-93	0.518
+NJD	1991-92	0.544
+NJD	1990-91	0.494
+NJD	1989-90	0.519
+NJD	1988-89	0.413
+NJD	1987-88	0.513
+NJD	1986-87	0.4
+NJD	1985-86	0.369
+NJD	1984-85	0.338
+NJD	1983-84	0.256
+NJD	1982-83	0.3
+NA	1981-82	0.306
+NA	1980-81	0.356
+NA	1979-80	0.319
+NA	1978-79	0.263
+NA	1977-78	0.369
+NA	1976-77	0.338
+NA	1975-76	0.225
+NA	1974-75	0.256
+CBJ	2023-24	0.419
+CBJ	2022-23	0.36
+CBJ	2021-22	0.494
+CBJ	2020-21	0.429
+CBJ	2019-20	0.579
+CBJ	2018-19	0.598
+CBJ	2017-18	0.591
+CBJ	2016-17	0.659
+CBJ	2015-16	0.463
+CBJ	2014-15	0.543
+CBJ	2013-14	0.567
+CBJ	2012-13	0.573
+CBJ	2011-12	0.396
+CBJ	2010-11	0.494
+CBJ	2009-10	0.482
+CBJ	2008-09	0.561
+CBJ	2007-08	0.488
+CBJ	2006-07	0.445
+CBJ	2005-06	0.451
+CBJ	2003-04	0.378
+CBJ	2002-03	0.421
+CBJ	2001-02	0.348
+CBJ	2000-01	0.433
+BOS	2023-24	0.688
+BOS	2022-23	0.823
+BOS	2021-22	0.652
+BOS	2020-21	0.652
+BOS	2019-20	0.714
+BOS	2018-19	0.652
+BOS	2017-18	0.683
+BOS	2016-17	0.579
+BOS	2015-16	0.567
+BOS	2014-15	0.585
+BOS	2013-14	0.713
+BOS	2012-13	0.646
+BOS	2011-12	0.622
+BOS	2010-11	0.628
+BOS	2009-10	0.555
+BOS	2008-09	0.707
+BOS	2007-08	0.573
+BOS	2006-07	0.463
+BOS	2005-06	0.451
+BOS	2003-04	0.634
+BOS	2002-03	0.53
+BOS	2001-02	0.616
+BOS	2000-01	0.537
+BOS	1999-00	0.445
+BOS	1998-99	0.555
+BOS	1997-98	0.555
+BOS	1996-97	0.372
+BOS	1995-96	0.555
+BOS	1994-95	0.594
+BOS	1993-94	0.577
+BOS	1992-93	0.649
+BOS	1991-92	0.525
+BOS	1990-91	0.625
+BOS	1989-90	0.631
+BOS	1988-89	0.55
+BOS	1987-88	0.588
+BOS	1986-87	0.531
+BOS	1985-86	0.538
+BOS	1984-85	0.513
+BOS	1983-84	0.65
+BOS	1982-83	0.688
+BOS	1981-82	0.6
+BOS	1980-81	0.544
+BOS	1979-80	0.656
+BOS	1978-79	0.625
+BOS	1977-78	0.706
+BOS	1976-77	0.663
+BOS	1975-76	0.706
+BOS	1974-75	0.588
+BOS	1973-74	0.724
+BOS	1972-73	0.686
+FLA	2023-24	0.691
+FLA	2022-23	0.561
+FLA	2021-22	0.744
+FLA	2020-21	0.705
+FLA	2019-20	0.565
+FLA	2018-19	0.524
+FLA	2017-18	0.585
+FLA	2016-17	0.494
+FLA	2015-16	0.628
+FLA	2014-15	0.555
+FLA	2013-14	0.402
+FLA	2012-13	0.375
+FLA	2011-12	0.573
+FLA	2010-11	0.439
+FLA	2009-10	0.47
+FLA	2008-09	0.567
+FLA	2007-08	0.518
+FLA	2006-07	0.524
+FLA	2005-06	0.518
+FLA	2003-04	0.457
+FLA	2002-03	0.427
+FLA	2001-02	0.366
+FLA	2000-01	0.402
+FLA	1999-00	0.598
+FLA	1998-99	0.476
+FLA	1997-98	0.384
+FLA	1996-97	0.543
+FLA	1995-96	0.561
+FLA	1994-95	0.479
+FLA	1993-94	0.494
+TOR	2023-24	0.644
+TOR	2022-23	0.677
+TOR	2021-22	0.701
+TOR	2020-21	0.688
+TOR	2019-20	0.579
+TOR	2018-19	0.61
+TOR	2017-18	0.64
+TOR	2016-17	0.579
+TOR	2015-16	0.421
+TOR	2014-15	0.415
+TOR	2013-14	0.512
+TOR	2012-13	0.594
+TOR	2011-12	0.488
+TOR	2010-11	0.518
+TOR	2009-10	0.451
+TOR	2008-09	0.494
+TOR	2007-08	0.506
+TOR	2006-07	0.555
+TOR	2005-06	0.549
+TOR	2003-04	0.628
+TOR	2002-03	0.598
+TOR	2001-02	0.61
+TOR	2000-01	0.549
+TOR	1999-00	0.61
+TOR	1998-99	0.591
+TOR	1997-98	0.421
+TOR	1996-97	0.415
+TOR	1995-96	0.488
+TOR	1994-95	0.521
+TOR	1993-94	0.583
+TOR	1992-93	0.589
+TOR	1991-92	0.419
+TOR	1990-91	0.356
+TOR	1989-90	0.5
+TOR	1988-89	0.388
+TOR	1987-88	0.325
+TOR	1986-87	0.438
+TOR	1985-86	0.356
+TOR	1984-85	0.3
+TOR	1983-84	0.381
+TOR	1982-83	0.425
+TOR	1981-82	0.35
+TOR	1980-81	0.444
+TOR	1979-80	0.469
+TOR	1978-79	0.506
+TOR	1977-78	0.575
+TOR	1976-77	0.506
+TOR	1975-76	0.519
+TOR	1974-75	0.488
+TOR	1973-74	0.551
+TOR	1972-73	0.41
+TBL	2023-24	0.582
+TBL	2022-23	0.598
+TBL	2021-22	0.671
+TBL	2020-21	0.67
+TBL	2019-20	0.657
+TBL	2018-19	0.78
+TBL	2017-18	0.689
+TBL	2016-17	0.573
+TBL	2015-16	0.591
+TBL	2014-15	0.659
+TBL	2013-14	0.616
+TBL	2012-13	0.417
+TBL	2011-12	0.512
+TBL	2010-11	0.628
+TBL	2009-10	0.488
+TBL	2008-09	0.402
+TBL	2007-08	0.433
+TBL	2006-07	0.567
+TBL	2005-06	0.561
+TBL	2003-04	0.646
+TBL	2002-03	0.567
+TBL	2001-02	0.421
+TBL	2000-01	0.36
+TBL	1999-00	0.329
+TBL	1998-99	0.287
+TBL	1997-98	0.268
+TBL	1996-97	0.451
+TBL	1995-96	0.537
+TBL	1994-95	0.385
+TBL	1993-94	0.423
+TBL	1992-93	0.315
+DET	2023-24	0.544
+DET	2022-23	0.488
+DET	2021-22	0.451
+DET	2020-21	0.429
+DET	2019-20	0.275
+DET	2018-19	0.451
+DET	2017-18	0.445
+DET	2016-17	0.482
+DET	2015-16	0.567
+DET	2014-15	0.61
+DET	2013-14	0.567
+DET	2012-13	0.583
+DET	2011-12	0.622
+DET	2010-11	0.634
+DET	2009-10	0.622
+DET	2008-09	0.683
+DET	2007-08	0.701
+DET	2006-07	0.689
+DET	2005-06	0.756
+DET	2003-04	0.665
+DET	2002-03	0.671
+DET	2001-02	0.707
+DET	2000-01	0.677
+DET	1999-00	0.659
+DET	1998-99	0.567
+DET	1997-98	0.628
+DET	1996-97	0.573
+DET	1995-96	0.799
+DET	1994-95	0.729
+DET	1993-94	0.595
+DET	1992-93	0.613
+DET	1991-92	0.613
+DET	1990-91	0.475
+DET	1989-90	0.438
+DET	1988-89	0.5
+DET	1987-88	0.581
+DET	1986-87	0.488
+DET	1985-86	0.25
+DET	1984-85	0.413
+DET	1983-84	0.431
+DET	1982-83	0.356
+DET	1981-82	0.338
+DET	1980-81	0.35
+DET	1979-80	0.394
+DET	1978-79	0.388
+DET	1977-78	0.488
+DET	1976-77	0.256
+DET	1975-76	0.388
+DET	1974-75	0.363
+DET	1973-74	0.436
+DET	1972-73	0.551
+BUF	2023-24	0.514
+BUF	2022-23	0.555
+BUF	2021-22	0.457
+BUF	2020-21	0.33
+BUF	2019-20	0.493
+BUF	2018-19	0.463
+BUF	2017-18	0.378
+BUF	2016-17	0.476
+BUF	2015-16	0.494
+BUF	2014-15	0.329
+BUF	2013-14	0.317
+BUF	2012-13	0.5
+BUF	2011-12	0.543
+BUF	2010-11	0.585
+BUF	2009-10	0.61
+BUF	2008-09	0.555
+BUF	2007-08	0.549
+BUF	2006-07	0.689
+BUF	2005-06	0.671
+BUF	2003-04	0.518
+BUF	2002-03	0.439
+BUF	2001-02	0.5
+BUF	2000-01	0.598
+BUF	1999-00	0.518
+BUF	1998-99	0.555
+BUF	1997-98	0.543
+BUF	1996-97	0.561
+BUF	1995-96	0.445
+BUF	1994-95	0.531
+BUF	1993-94	0.565
+BUF	1992-93	0.512
+BUF	1991-92	0.463
+BUF	1990-91	0.506
+BUF	1989-90	0.613
+BUF	1988-89	0.519
+BUF	1987-88	0.531
+BUF	1986-87	0.4
+BUF	1985-86	0.5
+BUF	1984-85	0.563
+BUF	1983-84	0.644
+BUF	1982-83	0.556
+BUF	1981-82	0.581
+BUF	1980-81	0.619
+BUF	1979-80	0.688
+BUF	1978-79	0.55
+BUF	1977-78	0.656
+BUF	1976-77	0.65
+BUF	1975-76	0.656
+BUF	1974-75	0.706
+BUF	1973-74	0.487
+BUF	1972-73	0.564
+BUF	1971-72	0.327
+MTL	2023-24	0.455
+MTL	2022-23	0.415
+MTL	2021-22	0.335
+MTL	2020-21	0.527
+MTL	2019-20	0.5
+MTL	2018-19	0.585
+MTL	2017-18	0.433
+MTL	2016-17	0.628
+MTL	2015-16	0.5
+MTL	2014-15	0.671
+MTL	2013-14	0.61
+MTL	2012-13	0.656
+MTL	2011-12	0.476
+MTL	2010-11	0.585
+MTL	2009-10	0.537
+MTL	2008-09	0.567
+MTL	2007-08	0.634
+MTL	2006-07	0.549
+MTL	2005-06	0.567
+MTL	2003-04	0.567
+MTL	2002-03	0.47
+MTL	2001-02	0.53
+MTL	2000-01	0.427
+MTL	1999-00	0.506
+MTL	1998-99	0.457
+MTL	1997-98	0.53
+MTL	1996-97	0.47
+MTL	1995-96	0.549
+MTL	1994-95	0.448
+MTL	1993-94	0.571
+MTL	1992-93	0.607
+MTL	1991-92	0.581
+MTL	1990-91	0.556
+MTL	1989-90	0.581
+MTL	1988-89	0.719
+MTL	1987-88	0.644
+MTL	1986-87	0.575
+MTL	1985-86	0.544
+MTL	1984-85	0.588
+MTL	1983-84	0.469
+MTL	1982-83	0.613
+MTL	1981-82	0.681
+MTL	1980-81	0.644
+MTL	1979-80	0.669
+MTL	1978-79	0.719
+MTL	1977-78	0.806
+MTL	1976-77	0.825
+MTL	1975-76	0.794
+MTL	1974-75	0.706
+MTL	1973-74	0.635
+MTL	1972-73	0.769
+MTL	1971-72	0.692
+OTT	2023-24	0.455
+OTT	2022-23	0.524
+OTT	2021-22	0.445
+OTT	2020-21	0.455
+OTT	2019-20	0.437
+OTT	2018-19	0.39
+OTT	2017-18	0.409
+OTT	2016-17	0.598
+OTT	2015-16	0.518
+OTT	2014-15	0.604
+OTT	2013-14	0.537
+OTT	2012-13	0.583
+OTT	2011-12	0.561
+OTT	2010-11	0.451
+OTT	2009-10	0.573
+OTT	2008-09	0.506
+OTT	2007-08	0.573
+OTT	2006-07	0.64
+OTT	2005-06	0.689
+OTT	2003-04	0.622
+OTT	2002-03	0.689
+OTT	2001-02	0.573
+OTT	2000-01	0.665
+OTT	1999-00	0.579
+OTT	1998-99	0.628
+OTT	1997-98	0.506
+OTT	1996-97	0.47
+OTT	1995-96	0.25
+OTT	1994-95	0.24
+OTT	1993-94	0.22
+OTT	1992-93	0.143
+DAL	2023-24	0.678
+DAL	2022-23	0.659
+DAL	2021-22	0.598
+DAL	2020-21	0.536
+DAL	2019-20	0.594
+DAL	2018-19	0.567
+DAL	2017-18	0.561
+DAL	2016-17	0.482
+DAL	2015-16	0.665
+DAL	2014-15	0.561
+DAL	2013-14	0.555
+DAL	2012-13	0.5
+DAL	2011-12	0.543
+DAL	2010-11	0.579
+DAL	2009-10	0.537
+DAL	2008-09	0.506
+DAL	2007-08	0.591
+DAL	2006-07	0.652
+DAL	2005-06	0.683
+DAL	2003-04	0.591
+DAL	2002-03	0.677
+DAL	2001-02	0.549
+DAL	2000-01	0.646
+DAL	1999-00	0.622
+DAL	1998-99	0.695
+DAL	1997-98	0.665
+DAL	1996-97	0.634
+DAL	1995-96	0.402
+DAL	1994-95	0.438
+DAL	1993-94	0.577
+NA	1992-93	0.488
+NA	1991-92	0.438
+NA	1990-91	0.425
+NA	1989-90	0.475
+NA	1988-89	0.438
+NA	1987-88	0.319
+NA	1986-87	0.438
+NA	1985-86	0.531
+NA	1984-85	0.388
+NA	1983-84	0.55
+NA	1982-83	0.6
+NA	1981-82	0.588
+NA	1980-81	0.544
+NA	1979-80	0.55
+NA	1978-79	0.425
+NA	1977-78	0.281
+NA	1976-77	0.4
+NA	1975-76	0.294
+NA	1974-75	0.331
+NA	1973-74	0.404
+NA	1972-73	0.545
+COL	2023-24	0.674
+COL	2022-23	0.665
+COL	2021-22	0.726
+COL	2020-21	0.732
+COL	2019-20	0.657
+COL	2018-19	0.549
+COL	2017-18	0.579
+COL	2016-17	0.293
+COL	2015-16	0.5
+COL	2014-15	0.549
+COL	2013-14	0.683
+COL	2012-13	0.406
+COL	2011-12	0.537
+COL	2010-11	0.415
+COL	2009-10	0.579
+COL	2008-09	0.421
+COL	2007-08	0.579
+COL	2006-07	0.579
+COL	2005-06	0.579
+COL	2003-04	0.61
+COL	2002-03	0.64
+COL	2001-02	0.604
+COL	2000-01	0.72
+COL	1999-00	0.585
+COL	1998-99	0.598
+COL	1997-98	0.579
+COL	1996-97	0.652
+COL	1995-96	0.634
+NA	1994-95	0.677
+NA	1993-94	0.452
+NA	1992-93	0.619
+NA	1991-92	0.325
+NA	1990-91	0.288
+NA	1989-90	0.194
+NA	1988-89	0.381
+NA	1987-88	0.431
+NA	1986-87	0.45
+NA	1985-86	0.575
+NA	1984-85	0.569
+NA	1983-84	0.588
+NA	1982-83	0.5
+NA	1981-82	0.513
+NA	1980-81	0.488
+NA	1979-80	0.381
+WPG	2023-24	0.653
+WPG	2022-23	0.579
+WPG	2021-22	0.543
+WPG	2020-21	0.563
+WPG	2019-20	0.563
+WPG	2018-19	0.604
+WPG	2017-18	0.695
+WPG	2016-17	0.53
+WPG	2015-16	0.476
+WPG	2014-15	0.604
+WPG	2013-14	0.512
+WPG	2012-13	0.531
+WPG	2011-12	0.512
+NA	2010-11	0.488
+NA	2009-10	0.506
+NA	2008-09	0.463
+NA	2007-08	0.463
+NA	2006-07	0.591
+NA	2005-06	0.549
+NA	2003-04	0.476
+NA	2002-03	0.451
+NA	2001-02	0.329
+NA	2000-01	0.366
+NA	1999-00	0.238
+NSH	2023-24	0.625
+NSH	2022-23	0.561
+NSH	2021-22	0.591
+NSH	2020-21	0.571
+NSH	2019-20	0.565
+NSH	2018-19	0.61
+NSH	2017-18	0.713
+NSH	2016-17	0.573
+NSH	2015-16	0.585
+NSH	2014-15	0.634
+NSH	2013-14	0.537
+NSH	2012-13	0.427
+NSH	2011-12	0.634
+NSH	2010-11	0.604
+NSH	2009-10	0.61
+NSH	2008-09	0.537
+NSH	2007-08	0.555
+NSH	2006-07	0.671
+NSH	2005-06	0.646
+NSH	2003-04	0.555
+NSH	2002-03	0.451
+NSH	2001-02	0.421
+NSH	2000-01	0.488
+NSH	1999-00	0.427
+NSH	1998-99	0.384
+STL	2023-24	0.556
+STL	2022-23	0.494
+STL	2021-22	0.665
+STL	2020-21	0.563
+STL	2019-20	0.662
+STL	2018-19	0.604
+STL	2017-18	0.573
+STL	2016-17	0.604
+STL	2015-16	0.652
+STL	2014-15	0.665
+STL	2013-14	0.677
+STL	2012-13	0.625
+STL	2011-12	0.665
+STL	2010-11	0.53
+STL	2009-10	0.549
+STL	2008-09	0.561
+STL	2007-08	0.482
+STL	2006-07	0.494
+STL	2005-06	0.348
+STL	2003-04	0.555
+STL	2002-03	0.604
+STL	2001-02	0.598
+STL	2000-01	0.628
+STL	1999-00	0.695
+STL	1998-99	0.53
+STL	1997-98	0.598
+STL	1996-97	0.506
+STL	1995-96	0.488
+STL	1994-95	0.635
+STL	1993-94	0.542
+STL	1992-93	0.506
+STL	1991-92	0.519
+STL	1990-91	0.656
+STL	1989-90	0.519
+STL	1988-89	0.488
+STL	1987-88	0.475
+STL	1986-87	0.494
+STL	1985-86	0.519
+STL	1984-85	0.538
+STL	1983-84	0.444
+STL	1982-83	0.406
+STL	1981-82	0.45
+STL	1980-81	0.669
+STL	1979-80	0.5
+STL	1978-79	0.3
+STL	1977-78	0.331
+STL	1976-77	0.456
+STL	1975-76	0.45
+STL	1974-75	0.525
+STL	1973-74	0.41
+STL	1972-73	0.487
+MIN	2023-24	0.542
+MIN	2022-23	0.628
+MIN	2021-22	0.689
+MIN	2020-21	0.67
+MIN	2019-20	0.558
+MIN	2018-19	0.506
+MIN	2017-18	0.616
+MIN	2016-17	0.646
+MIN	2015-16	0.53
+MIN	2014-15	0.61
+MIN	2013-14	0.598
+MIN	2012-13	0.573
+MIN	2011-12	0.494
+MIN	2010-11	0.524
+MIN	2009-10	0.512
+MIN	2008-09	0.543
+MIN	2007-08	0.598
+MIN	2006-07	0.634
+MIN	2005-06	0.512
+MIN	2003-04	0.506
+MIN	2002-03	0.579
+MIN	2001-02	0.445
+MIN	2000-01	0.415
+ARZ	2023-24	0.451
+ARZ	2022-23	0.427
+ARZ	2021-22	0.348
+ARZ	2020-21	0.482
+ARZ	2019-20	0.529
+ARZ	2018-19	0.524
+ARZ	2017-18	0.427
+ARZ	2016-17	0.427
+ARZ	2015-16	0.476
+ARZ	2014-15	0.341
+NA	2013-14	0.543
+NA	2012-13	0.531
+NA	2011-12	0.591
+NA	2010-11	0.604
+NA	2009-10	0.652
+NA	2008-09	0.482
+NA	2007-08	0.506
+NA	2006-07	0.409
+NA	2005-06	0.494
+NA	2003-04	0.415
+NA	2002-03	0.476
+NA	2001-02	0.579
+NA	2000-01	0.549
+NA	1999-00	0.549
+NA	1998-99	0.549
+NA	1997-98	0.5
+NA	1996-97	0.506
+WPG	1995-96	0.476
+WPG	1994-95	0.406
+WPG	1993-94	0.339
+WPG	1992-93	0.518
+WPG	1991-92	0.506
+WPG	1990-91	0.394
+WPG	1989-90	0.531
+WPG	1988-89	0.4
+WPG	1987-88	0.481
+WPG	1986-87	0.55
+WPG	1985-86	0.369
+WPG	1984-85	0.6
+WPG	1983-84	0.456
+WPG	1982-83	0.463
+WPG	1981-82	0.5
+WPG	1980-81	0.2
+WPG	1979-80	0.319
+CHI	2023-24	0.326
+CHI	2022-23	0.36
+CHI	2021-22	0.415
+CHI	2020-21	0.491
+CHI	2019-20	0.514
+CHI	2018-19	0.512
+CHI	2017-18	0.463
+CHI	2016-17	0.665
+CHI	2015-16	0.628
+CHI	2014-15	0.622
+CHI	2013-14	0.652
+CHI	2012-13	0.802
+CHI	2011-12	0.616
+CHI	2010-11	0.591
+CHI	2009-10	0.683
+CHI	2008-09	0.634
+CHI	2007-08	0.537
+CHI	2006-07	0.433
+CHI	2005-06	0.396
+CHI	2003-04	0.36
+CHI	2002-03	0.482
+CHI	2001-02	0.585
+CHI	2000-01	0.433
+CHI	1999-00	0.476
+CHI	1998-99	0.427
+CHI	1997-98	0.445
+CHI	1996-97	0.494
+CHI	1995-96	0.573
+CHI	1994-95	0.552
+CHI	1993-94	0.518
+CHI	1992-93	0.631
+CHI	1991-92	0.544
+CHI	1990-91	0.663
+CHI	1989-90	0.55
+CHI	1988-89	0.413
+CHI	1987-88	0.431
+CHI	1986-87	0.45
+CHI	1985-86	0.538
+CHI	1984-85	0.519
+CHI	1983-84	0.425
+CHI	1982-83	0.65
+CHI	1981-82	0.45
+CHI	1980-81	0.488
+CHI	1979-80	0.544
+CHI	1978-79	0.456
+CHI	1977-78	0.519
+CHI	1976-77	0.394
+CHI	1975-76	0.513
+CHI	1974-75	0.513
+CHI	1973-74	0.673
+CHI	1972-73	0.596
+VAN	2023-24	0.681
+VAN	2022-23	0.506
+VAN	2021-22	0.561
+VAN	2020-21	0.446
+VAN	2019-20	0.565
+VAN	2018-19	0.494
+VAN	2017-18	0.445
+VAN	2016-17	0.421
+VAN	2015-16	0.457
+VAN	2014-15	0.616
+VAN	2013-14	0.506
+VAN	2012-13	0.615
+VAN	2011-12	0.677
+VAN	2010-11	0.713
+VAN	2009-10	0.628
+VAN	2008-09	0.61
+VAN	2007-08	0.537
+VAN	2006-07	0.64
+VAN	2005-06	0.561
+VAN	2003-04	0.616
+VAN	2002-03	0.634
+VAN	2001-02	0.573
+VAN	2000-01	0.549
+VAN	1999-00	0.506
+VAN	1998-99	0.354
+VAN	1997-98	0.39
+VAN	1996-97	0.47
+VAN	1995-96	0.482
+VAN	1994-95	0.5
+VAN	1993-94	0.506
+VAN	1992-93	0.601
+VAN	1991-92	0.6
+VAN	1990-91	0.406
+VAN	1989-90	0.4
+VAN	1988-89	0.463
+VAN	1987-88	0.369
+VAN	1986-87	0.413
+VAN	1985-86	0.369
+VAN	1984-85	0.369
+VAN	1983-84	0.456
+VAN	1982-83	0.469
+VAN	1981-82	0.481
+VAN	1980-81	0.475
+VAN	1979-80	0.438
+VAN	1978-79	0.394
+VAN	1977-78	0.356
+VAN	1976-77	0.394
+VAN	1975-76	0.506
+VAN	1974-75	0.538
+VAN	1973-74	0.378
+VAN	1972-73	0.34
+EDM	2023-24	0.643
+EDM	2022-23	0.665
+EDM	2021-22	0.634
+EDM	2020-21	0.643
+EDM	2019-20	0.585
+EDM	2018-19	0.482
+EDM	2017-18	0.476
+EDM	2016-17	0.628
+EDM	2015-16	0.427
+EDM	2014-15	0.378
+EDM	2013-14	0.409
+EDM	2012-13	0.469
+EDM	2011-12	0.451
+EDM	2010-11	0.378
+EDM	2009-10	0.378
+EDM	2008-09	0.518
+EDM	2007-08	0.537
+EDM	2006-07	0.433
+EDM	2005-06	0.579
+EDM	2003-04	0.543
+EDM	2002-03	0.561
+EDM	2001-02	0.561
+EDM	2000-01	0.567
+EDM	1999-00	0.537
+EDM	1998-99	0.476
+EDM	1997-98	0.488
+EDM	1996-97	0.494
+EDM	1995-96	0.415
+EDM	1994-95	0.396
+EDM	1993-94	0.381
+EDM	1992-93	0.357
+EDM	1991-92	0.513
+EDM	1990-91	0.5
+EDM	1989-90	0.563
+EDM	1988-89	0.525
+EDM	1987-88	0.619
+EDM	1986-87	0.663
+EDM	1985-86	0.744
+EDM	1984-85	0.681
+EDM	1983-84	0.744
+EDM	1982-83	0.663
+EDM	1981-82	0.694
+EDM	1980-81	0.463
+EDM	1979-80	0.431
+LAK	2023-24	0.613
+LAK	2022-23	0.634
+LAK	2021-22	0.604
+LAK	2020-21	0.438
+LAK	2019-20	0.457
+LAK	2018-19	0.433
+LAK	2017-18	0.598
+LAK	2016-17	0.524
+LAK	2015-16	0.622
+LAK	2014-15	0.579
+LAK	2013-14	0.61
+LAK	2012-13	0.615
+LAK	2011-12	0.579
+LAK	2010-11	0.598
+LAK	2009-10	0.616
+LAK	2008-09	0.482
+LAK	2007-08	0.433
+LAK	2006-07	0.415
+LAK	2005-06	0.543
+LAK	2003-04	0.494
+LAK	2002-03	0.482
+LAK	2001-02	0.579
+LAK	2000-01	0.561
+LAK	1999-00	0.573
+LAK	1998-99	0.421
+LAK	1997-98	0.53
+LAK	1996-97	0.409
+LAK	1995-96	0.402
+LAK	1994-95	0.427
+LAK	1993-94	0.393
+LAK	1992-93	0.524
+LAK	1991-92	0.525
+LAK	1990-91	0.638
+LAK	1989-90	0.469
+LAK	1988-89	0.569
+LAK	1987-88	0.425
+LAK	1986-87	0.438
+LAK	1985-86	0.338
+LAK	1984-85	0.513
+LAK	1983-84	0.369
+LAK	1982-83	0.413
+LAK	1981-82	0.394
+LAK	1980-81	0.619
+LAK	1979-80	0.463
+LAK	1978-79	0.5
+LAK	1977-78	0.481
+LAK	1976-77	0.519
+LAK	1975-76	0.531
+LAK	1974-75	0.656
+LAK	1973-74	0.5
+LAK	1972-73	0.468
+VGK	2023-24	0.597
+VGK	2022-23	0.677
+VGK	2021-22	0.573
+VGK	2020-21	0.732
+VGK	2019-20	0.606
+VGK	2018-19	0.567
+VGK	2017-18	0.665
+SEA	2023-24	0.5
+SEA	2022-23	0.61
+SEA	2021-22	0.366
+CGY	2023-24	0.5
+CGY	2022-23	0.567
+CGY	2021-22	0.677
+CGY	2020-21	0.491
+CGY	2019-20	0.564
+CGY	2018-19	0.652
+CGY	2017-18	0.512
+CGY	2016-17	0.573
+CGY	2015-16	0.47
+CGY	2014-15	0.591
+CGY	2013-14	0.47
+CGY	2012-13	0.438
+CGY	2011-12	0.549
+CGY	2010-11	0.573
+CGY	2009-10	0.549
+CGY	2008-09	0.598
+CGY	2007-08	0.573
+CGY	2006-07	0.585
+CGY	2005-06	0.628
+CGY	2003-04	0.573
+CGY	2002-03	0.457
+CGY	2001-02	0.482
+CGY	2000-01	0.445
+CGY	1999-00	0.47
+CGY	1998-99	0.439
+CGY	1997-98	0.409
+CGY	1996-97	0.445
+CGY	1995-96	0.482
+CGY	1994-95	0.573
+CGY	1993-94	0.577
+CGY	1992-93	0.577
+CGY	1991-92	0.463
+CGY	1990-91	0.625
+CGY	1989-90	0.619
+CGY	1988-89	0.731
+CGY	1987-88	0.656
+CGY	1986-87	0.594
+CGY	1985-86	0.556
+CGY	1984-85	0.588
+CGY	1983-84	0.513
+CGY	1982-83	0.488
+CGY	1981-82	0.469
+CGY	1980-81	0.575
+NA	1979-80	0.519
+NA	1978-79	0.563
+NA	1977-78	0.544
+NA	1976-77	0.5
+NA	1975-76	0.513
+NA	1974-75	0.519
+NA	1973-74	0.474
+NA	1972-73	0.417
+ANA	2023-24	0.361
+ANA	2022-23	0.354
+ANA	2021-22	0.463
+ANA	2020-21	0.384
+ANA	2019-20	0.472
+ANA	2018-19	0.488
+ANA	2017-18	0.616
+ANA	2016-17	0.64
+ANA	2015-16	0.628
+ANA	2014-15	0.665
+ANA	2013-14	0.707
+ANA	2012-13	0.688
+ANA	2011-12	0.488
+ANA	2010-11	0.604
+ANA	2009-10	0.543
+ANA	2008-09	0.555
+ANA	2007-08	0.622
+ANA	2006-07	0.671
+NA	2005-06	0.598
+NA	2003-04	0.463
+NA	2002-03	0.579
+NA	2001-02	0.421
+NA	2000-01	0.402
+NA	1999-00	0.506
+NA	1998-99	0.506
+NA	1997-98	0.396
+NA	1996-97	0.518
+NA	1995-96	0.476
+NA	1994-95	0.385
+NA	1993-94	0.423
+SJS	2023-24	0.282
+SJS	2022-23	0.366
+SJS	2021-22	0.47
+SJS	2020-21	0.438
+SJS	2019-20	0.45
+SJS	2018-19	0.616
+SJS	2017-18	0.61
+SJS	2016-17	0.604
+SJS	2015-16	0.598
+SJS	2014-15	0.543
+SJS	2013-14	0.677
+SJS	2012-13	0.594
+SJS	2011-12	0.585
+SJS	2010-11	0.64
+SJS	2009-10	0.689
+SJS	2008-09	0.713
+SJS	2007-08	0.659
+SJS	2006-07	0.652
+SJS	2005-06	0.604
+SJS	2003-04	0.634
+SJS	2002-03	0.445
+SJS	2001-02	0.604
+SJS	2000-01	0.579
+SJS	1999-00	0.53
+SJS	1998-99	0.488
+SJS	1997-98	0.476
+SJS	1996-97	0.378
+SJS	1995-96	0.287
+SJS	1994-95	0.438
+SJS	1993-94	0.488
+SJS	1992-93	0.143
+SJS	1991-92	0.244
